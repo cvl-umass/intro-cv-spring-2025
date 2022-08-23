@@ -1,23 +1,46 @@
 ---
 layout: about
 permalink: /
-title: <b>P</b>robabilistic <b>G</b>raphical <b>M</b>odels
-description: 10-708 • Spring 2019 • Carnegie Mellon University
-logo: cmu-logo.png
+title: <b>C</b>omputer <b>V</b>ision
+description: COMPSCI 670 • Fall 2022 • University of Massachusetts, Amherst
+logo: umass-logo.png
 news: true
 ---
 
-Many of the problems in artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields, can be viewed as the search for a coherent global conclusion from local information.
-The probabilistic graphical models framework provides an unified view for this wide range of problems, enables efficient inference, decision-making and learning in problems with a very large number of attributes and huge datasets.
-This graduate-level course will provide you with a strong foundation for both applying graphical models to complex problems and for addressing core research topics in graphical models.
+This graduate-level course will explore techniques for the analysis of
+visual data, primarily color images. The first part of the course will
+examine the physics and geometry of image formation, including the
+design of cameras and the study of color sensing in the human eye. The
+second part of the the course we will focus on algorithms to extract
+information from images. This includes detection of interest points
+for image alignment, depth estimation, and instance recognition;
+representations and architectures of image classification, object
+detection and segmentation; and generative modeling of images. The
+course covers both modern (e.g., learning based) and classical
+(e.g., physics and geometry based) techniques. We will also look
+at some additional topics at the end of the course. Take a look at the
+[lectures](lectures/) for details.
+
+Course assignments will highlight several computer vision tasks and
+methods. For each homework, you will construct a basic system and
+improve it through a cycle of error analysis and model redesign. There
+will also be a final project which will investigate a single topic or
+application in greater depth. This course assumes a strong working
+knowledge of probability, linear algebra, and ability to program in
+Python. Prior experience in machine learning, signal or image
+processing is recommended. Take a look at the course [logistics](logistics/) page
+for details.
 
 ***
 
-- **Time:** Monday/Wednesday 12:00-1:20 pm
-- **Location:** [Posner Hall 152](https://www.google.com/maps/place/Posner+Hall/@40.4424422,-79.9448675){:target="\_blank"}
-- **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
-- **HW submission:** [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"}
-- **Online lectures:** The lectures will be live-streamed through [Panopto](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f44b4d7-fb4e-49eb-b88d-a9d00125e1b3){:target="\_blank"}, recorded, and made available on [YouTube](https://www.youtube.com/playlist?list=PLoZgVqqHOumTY2CAQHL45tQp6kmDnDcqn){:target="\_blank"}.
-- **Contact:** Students should ask all course-related questions on [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *10708-instructor@cs.cmu.edu*.
+- **Time:** Monday/Wednesday 4:00PM -- 5:15PM
+- **Location:** Hasbrouck Lab, Add Room 126 [map](https://www.google.com/maps/place/Hasbrouck+Laboratory/@42.3917693,-72.5281065,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x89e6d2774930ccf3:0x66bc68f63506e9fa!2sHasbrouck+Laboratory!8m2!3d42.3917693!4d-72.5259125!3m4!1s0x89e6d2774930ccf3:0x66bc68f63506e9fa!8m2!3d42.3917693!4d-72.5259125)
+- **Discussion:** [Piazza]()
+- **HW release:** [Moodle]()
+- **HW submission:** [Gradescope]()
+- **Contact:** Students should ask all course-related questions on
+  [Piazza](), where you will also find announcements. For external
+  enquiries, personal matters, or in emergencies, you can email me at
+  *smaji@cs.umass.edu*.
 
 ***

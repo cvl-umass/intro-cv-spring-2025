@@ -10,85 +10,89 @@ title: Logistics
 ***
 
 ### Textbooks
+The primary material for the class are lectures and readings from books, research papers,
+articles listed on the lectures page. There is no required textbook for this class. Nevertheless the
+following textbooks are useful:
 
-The required textbook for this class is (note that the material of the class goes beyond this book):
-- Daphne Koller and Nir Friedman, [Probabilistic Graphical Models: Principles and Techniques](http://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193/ref=sr_1_1?ie=UTF8&s=books&qid=1250711756&sr=8-1){:target="\_blank"}.
+* [Computer Vision: A Modern Approach](http://luthuli.cs.uiuc.edu/~daf/book/book.html) by David Forsyth and Jean Ponce (2nd ed.)
+* [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/), by Richard Szeliski
+  (2nd ed.) (available online).
+  
+We will post links to the relevant sections of Richard Szeliski's (RS) book for each lecture.
+And these for machine learning:
+* [Machine Learning: a Probabilistic Perspective](https://probml.github.io/pml-book/) by Kevin P. Murphy
+* [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/), T. Hastie, R. Tibshirani, and
+J. Friedman
+* [Pattern Recognition and Machine
+  Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf),
+  Christopher M. Bishop (available online)
+* [Machine Learning](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html), Tom M. Mitchell
+* [A Course in Machine Learning](http://ciml.info/), Hal Daumé III
+  (available online)
+* [Deep Learning Book](https://www.deeplearningbook.org/), Goodfellow,
+  Bengio, and Courville (available online)
 
-We will also be using excerpts from the following work, which you do not need to purchase:
-- Michael I. Jordan, **An Introduction to Probabilistic Graphical Models**, in preparation.<br/>
-Copies of certain chapters will be made available to students taking the class.
+***
 
-Optional:
-- Kevin Murphy, **Machine Learning: A Probabilistic Perspective**.
+### Required Background
+
+The course assumes a strong ability to program in Python and
+background in linear algebra, probability and statistics. Take a look
+at the resources below to brush up your math and programming skills.
+
+* [NumPy tutorial from Stanford CS231n](https://cs231n.github.io/python-numpy-tutorial/)
+* [Vector geometry notes by Denis Sevee](https://people.cs.umass.edu/~smaji/teaching/670/vectornotes.pdf)
+* [Linear algebra review](https://cseweb.ucsd.edu/classes/wi05/cse252a/linear_algebra_review.pdf) (via David Kriegman)
+* [Random variables review](https://cseweb.ucsd.edu/classes/wi05/cse252a/random_var_review.pdf) (via David Kriegman)
+* Deep learning: [Pytorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/)
+
+Writing reports a key component of all projects. [Here are some tips on
+how to write
+well](https://docs.google.com/document/d/1cWY-L6Qu-wHKst69aDuJbi7Vtw472ZaSNHkrS_WyzqE/edit?usp=sharing).
 
 ***
 
 ### Grading
 
-The class requirements include brief reading summaries, scribe notes for 1 lecture, 4 problem sets, and a project.
-This is a PhD level course, and by the end of this class you should have a good understanding of the basic methodologies in probabilistic graphical models, and be able to use them to solve real problems of modest complexity.
-The grading breakdown is as follows:
+The grading breakdown for this class is as follows:
 
-- Participation (4%)
-- Scribe Duties (10%)
-- Homework Assignments (40%)
-- Final Project (46%)
+* 80% Homeworks (5 in total)
+* 20% Project
 
 *Note that this class does not have any tests or exams.*
 
-***
+The cutoffs for letter grades vary each year, but here are the
+cutoffs we used in a previous offering of the class: **A** (92), **A-** (87), **B+**
+(83), **B** (79), **B-** (75), **C+** (70), **C** (65), **C-** (60), **D+** (55), **D** (50).
 
-### Participation
-
-We appreciate everyone being actively involved in the class!
-There are several ways of earning participation credit, which will be capped at 4%:
-- **Piazza participation:** The top ~20 contributors to Piazza will get 3.5%; others will get credit in proportion to the participation of the ~20th person. (To prevent abuse of the system, not all contributions are counted and instructors hold the right to determine to count contributions as positive or negative.)
-- **Completing mid-semester evaluation:** Around the middle of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing it is worth 0.5%.
-- **Karma point:** Any other act that improves the class, which a 10-708 TA or instructor notices and deems worthy: 1%.
-
-### Scribe Duties
-
-Each student is required to scribe for a small number of lectures (most likely just 1).
-Most lectures will have 3-4 students acting as scribes, and they should work as a team.
-During your assigned lectures, you are to take detailed notes in collaboration with your fellow scribes.
-After the lecture, the scribe team is to convert their notes into a written format (see [the guidelines](https://github.com/sailinglab/pgm-spring-2019/tree/master/_posts){:target="\_blank"}).
-The notes must be detailed and thorough, and must be submitted through a pull request on GitHub within 1 week after the lecture.
-TAs will audit and review the submitted notes, request changes if necessary, and will eventually approve the notes and add them to the course page.
-
-As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties.
-If your notes have errors or are otherwise not up to standard, we will inform you and give you a chance to correct them.
-You will receive zero credit if you fail to submit your notes.
 
 ***
 
 ### Homework Assignments
 
-There will be 4 homework assignments over the course of the semester.
+There will be 5 homework assignments over the course of the semester.
 These assignments may contain material that has been covered by published papers and webpages.
 It is a graduate class and we expect students to solve the problems themselves rather than search for answers.
-
-**The students are required to typeset homework solutions using $$\LaTeX$$ and the provided template.**
 
 #### Collaboration Policy
 
 **Homework assignments must be done individually:** each student must hand in their own answers.
 However, it is acceptable to collaborate when figuring out answers and to help each other solve the problems.
-We will be assuming that, as participants in a graduate course, you will be taking the responsibility to make sure you personally understand the solution arising from such collaboration.
+We will be assuming that, as participants in a graduate course, you
+will be taking the responsibility to make sure you personally
+understand the solution arising from such collaboration.
+
 You also must indicate on each homework with whom you have collaborated.
 
 #### Late Policy
 
-You will be allowed **6 total homework late days** without penalty for the entire semester.
-You may be late by up to 6 days on any homework assignment.
-Once those days are used, you will be penalized according to the following policy:
-
-- Homework is worth full credit at the due time on the due date.
-- The allowed late days are counted by day (i.e., each new late day starts at 12:00 am ET).
-- Once the allowed late days are exceeded, the penalty is 50% per late day conted by hour (i.e., 2.0833% per hour).
-- The homework is worth zero credit 48 hours after exceeding the late day limit.
-
-You must turn in at least 3 of the 4 assignments, even if for zero credit, in order to pass the course.
-Please upload your late submissions to [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"}.
+* You can use 7 late days, with up to 3 late days per
+  assignment. Beyond 3 late days the assignment will not be counted at all.
+* Once you have used all 7 late days, penalty is 25% for each
+  additional late day.
+* We will use your latest submission for grading and for calculating
+  your late day usage. 
+* There is no bonus if you don’t use late days at all.
 
 #### Regrade Policy
 
@@ -97,28 +101,54 @@ Please note that regrading of a homework may cause your grade to go either up or
 
 ***
 
-### Final Project
+### Project
 
-The class project will be carried out in groups of 3 or 4 people, and has four main parts: a proposal, a midway report, a final report, and a poster/oral presentation.
+The project will be carried out in groups of 2 people, and has four main parts: a proposal, a midway report, a final report, and a poster/oral presentation.
 The project is an integral part of this class, and is designed to be as similar as possible to researching and writing a conference-style paper.
 
-Please see the [project page](https://sailinglab.github.io/pgm-spring-2019/project/) for more information about the final project.
+Please see the [project page](project/) for more information about the final project.
 
 ***
 
-### Auditing
+### Related Courses
 
-To satisfy the auditing requirement, you must do *one* of the following:
+Past offerings of 670 at the university
+* [Fall 2020](https://sites.google.com/view/cmpsci670), Instructor: Subhransu Maji
+* [Fall 2019](https://sites.google.com/view/cmpsci670-fall19), Instructor: Subhransu Maji
+* [Fall 2018](https://sites.google.com/view/cmpsci670-fall18), Instructor: Subhransu Maji
 
-1. **Submit three homeworks** and receive at least 75% of the points on each one.
-2. **Do a class project** which must address a topic related to machine learning and must be something that you have started while taking this class (i.e. it can't be your previous work).
-You will need to submit a project proposal with everyone else, and present the project with everyone.
-However, you don't need to submit a milestone or final paper.
-You must get at least 80% on the final presentation part of the project.
+Related courses at the university
+* 682: Neural Networks: A Modern Introduction
+* 590: Intelligent Visual Computing
+* 373: Introduction to Computer Graphics
+* 370: Introduction to Computer Vision
 
-*If you plan to audit the class, please notify instructors that you are auditing and specify which requirement you plan to fulfill.*
 
-### Listeners outside CMU
 
-Please feel free to reuse any of these course materials that you find of use in your own courses.
-We ask that you retain any copyright notices, and include a written notice indicating the source of any materials you use.
+### Accommodation Statement
+The University is committed to providing an equal educational
+opportunity for all students. If you have a documented physical,
+psychological, or learning disability on file with Disability Services
+(DS), you may be eligible for reasonable academic accommodations to
+help you succeed in this course. If you have a documented disability
+that requires an accommodation, please notify me within the first two
+weeks of the semester so that we may make appropriate arrangements.
+
+***
+### Academic Honesty
+Since the integrity of the academic enterprise of any institution of
+higher education requires honesty in scholarship and research,
+academic honesty is required of all students. Students are expected to
+be familiar with this policy and the commonly accepted standards of
+academic integrity (http://www.umass.edu/honesty).
+
+***
+### Acknowledgements
+Many of the slides and homework assignments are based on excellent
+computer vision courses taught elsewhere by [Svetlana Lazebnik](https://slazebni.cs.illinois.edu/), [Alyosha
+Efros](http://people.eecs.berkeley.edu/~efros/), [Alexander Berg](http://acberg.com/), [Steven Seitz](https://www.smseitz.com/), [James Hays](https://faculty.cc.gatech.edu/~hays/), [Charless Fowlkes](https://www.ics.uci.edu/~fowlkes/),
+[Kirsten Grauman](https://www.cs.utexas.edu/users/grauman/) and many
+others. Many thanks to [Richard
+Szeliski](http://szeliski.org/RichardSzeliski.htm) for making the
+computer vision textbook available online for free.
+
