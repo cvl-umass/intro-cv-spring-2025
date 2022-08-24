@@ -123,47 +123,38 @@ encouraged.
 You are encouraged to propose your own topics -- some of you already
 may have done so. Take a look at the the resources listed at the end
 of this page for potential topics. Below are some ideas:
-
-* Organizing personal photo collections. Think of all the photos you
-take on your mobile phone. What is a useful way of browsing and
-searching such a collection?
-* Better field-guides to categorize animals and plants using computer
-  vision. Here is one for identifying tree species
-  http://leafsnap.com. Take a look at the Fine-grained Visual
-  Recognition workshops from recent years (http://fgvc.org/).
-* Detecting interesting events in ego-centric cameras, e.g.,
-  GoPro. How can you tell when something interesting happens in the
-  video stream?
-* Analyzing architecture – what cities are similar to Chicago in terms
-  of the style of buildings?
-* Analyzing 3D dataset collections – how can you retrieve a 3D model
-  from a computer graphics database using a photo? There are many 3D
-  models available for download at
-  https://3dwarehouse.sketchup.com. You might want to focus on a
-  sub-category, say, airplanes.
-* A list of computer vision datasets: http://www.cvpapers.com/datasets.html.
-* A list of project ideas from Serge Belongie:
-  http://cseweb.ucsd.edu/classes/wi06/cse190a/projects.html
-* There are a number of startups with applications including sports
-replays, such as the “goal-line” technology used in the FIFA world
-cup, medical applications, robotics, industrial inspections,
-etc. David Lowe maintains a (somewhat outdated) list of computer
-vision applications in the industry:
-* http://www.cs.ubc.ca/~lowe/vision.html
-* https://paperswithcode.com/ tracks the state of the art across
-datasets.
-* https://registry.opendata.aws/ contains a large number of publicly
+* Take a look at the latest papers from CVPR, ECCV, ICCV, NeurIPS,
+  and ICML to find topics, software, datasets which you can build
+  upon. 
+* Also check out the workshops associated with these conferences. 
+  For example, take a look at the recent [Fine-grained Visual
+  Recognition workshops](http://fgvc.org) for
+  datasets and Kaggle challenges related to fine-grained classifiction
+  tasks such as recognizing animal species, or product images.
+* The website [https://paperswithcode.com](https://paperswithcode.com)
+  tracks the state of the art across datasets. This is a quick way to
+  find baselines to compare with or build upon.
+* The wesbite [https://registry.opendata.aws](https://registry.opendata.aws) contains a number of publicly
 available datasets hosted on AWS. These include satellite imagery,
 RADAR and other data on which you can try out some computer vision
-techniques. 
+techniques. For example see MistNet and RoostNet projects (contact
+Zezhou for details).
 * Explore the use of computer vision services on the cloud to solve some
-challenging problems. Some choices are
-https://aws.amazon.com/rekognition/, https://cloud.google.com/vision,
-https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
-* Latest papers from CVPR, ECCV, ICCV, NeurIPS, ICML, etc. 
+challenging problems. Some choices are [AWS Rekognition](https://aws.amazon.com/rekognition), 
+[Google cloud](https://cloud.google.com/vision), and  [Microsoft Azure](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision).
+* Generative modeling: Train and generate data on novel domains using
+  GAN, VQ-GAN, Diffusion models. Build an interface for interactively
+  edit images. 
+* Probing and understanding language and vision models: Models such as
+  CLIP (OpenAI) and ALIGN (Google) train multi-modal aligned
+  representations of images and text, which can be applied for example
+  to retrive images based on text, or even generate images based
+  on language (e.g., DALL-E). [Huggingface](https://huggingface.co/)
+  has open-source implementation of many of these models -- try to
+  probe these models on new datasets to understand their capabilities
+  and biases.
 
-
-A sample of projects from a prior course offering:
+A sample of projects from a prior offering of the course:
 * Scene text recognition
 * Improving object detection using depth estimation
 * Dust removal from images
@@ -188,13 +179,17 @@ Some vision projects may involve large scale data and require GPU
 computing resources. We recommend you to check out "AWS Education" and
 "Google Cloud Platform".
 
-* AWS: https://aws.amazon.com/education/awseducate/
-** UMass is an "AWS member institution", so you are in the higher
+* AWS:
+  [https://aws.amazon.com/education/awseducate](https://aws.amazon.com/education/awseducate)
+  * UMass is an "AWS member institution", so you are in the higher
 allowance tier. Use your .edu email and the full school name
 "University of Massachusetts Amherst" when you register to get the
 full benefits (a total of $100 annually).
-** To get GPUs, use g3 (up to 4 NVIDIA Tesla M60 GPUs) or p2 (up to 16
+  * To get GPUs, use g3 (up to 4 NVIDIA Tesla M60 GPUs) or p2 (up to 16
 NVIDIA K80 GPUs) instances in EC2. Check the pricing first and make
 your plan accordingly!
-* Google Cloud Platform: https://cloud.google.com/.
-** You get $300 credits for the first 12 months, and always free on their free-tier resources (not including GPUs)
+* Google Cloud Platform:
+[https://cloud.google.com](https://cloud.google.com)
+	* You get $300 credits for the first 12 months, and always free on
+      their free-tier resources (not including GPUs)
+	  

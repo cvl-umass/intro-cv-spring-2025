@@ -18,9 +18,10 @@ following textbooks are useful:
 * [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/), by Richard Szeliski
   (2nd ed.) (available online).
   
-We will post links to the relevant sections of Richard Szeliski's (RS) book for each lecture.
+We will post links to sections of Szeliski's book for each lecture.
+
 And these for machine learning:
-* [Machine Learning: a Probabilistic Perspective](https://probml.github.io/pml-book/) by Kevin P. Murphy
+* [Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/) by Kevin P. Murphy
 * [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/), T. Hastie, R. Tibshirani, and
 J. Friedman
 * [Pattern Recognition and Machine
@@ -29,7 +30,7 @@ J. Friedman
 * [Machine Learning](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html), Tom M. Mitchell
 * [A Course in Machine Learning](http://ciml.info/), Hal Daumé III
   (available online)
-* [Deep Learning Book](https://www.deeplearningbook.org/), Goodfellow,
+* [Deep Learning](https://www.deeplearningbook.org/), Goodfellow,
   Bengio, and Courville (available online)
 
 ***
@@ -46,7 +47,7 @@ at the resources below to brush up your math and programming skills.
 * [Random variables review](https://cseweb.ucsd.edu/classes/wi05/cse252a/random_var_review.pdf) (via David Kriegman)
 * Deep learning: [Pytorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/)
 
-Writing reports a key component of all projects. [Here are some tips on
+Writing is a key component of all projects. [Here are some tips on
 how to write
 well](https://docs.google.com/document/d/1cWY-L6Qu-wHKst69aDuJbi7Vtw472ZaSNHkrS_WyzqE/edit?usp=sharing).
 
@@ -71,16 +72,20 @@ cutoffs we used in a previous offering of the class: **A** (92), **A-** (87), **
 ### Homework Assignments
 
 There will be 5 homework assignments over the course of the semester.
-These assignments may contain material that has been covered by published papers and webpages.
-It is a graduate class and we expect students to solve the problems themselves rather than search for answers.
+These assignments may contain material that has been covered by
+published papers and webpages.
+It is a graduate class and we expect students to solve the problems
+themselves rather than search for answers.
+
 
 #### Collaboration Policy
 
-**Homework assignments must be done individually:** each student must hand in their own answers.
-However, it is acceptable to collaborate when figuring out answers and to help each other solve the problems.
-We will be assuming that, as participants in a graduate course, you
-will be taking the responsibility to make sure you personally
-understand the solution arising from such collaboration.
+**Homework assignments must be done individually:** This means that
+each student must hand in their own answers. However, it is acceptable
+to collaborate when figuring out answers and to help each other solve
+the problems. We will be assuming that, as participants in a graduate
+course, you will be taking the responsibility to make sure you
+personally understand the solution arising from such collaboration.
 
 You also must indicate on each homework with whom you have collaborated.
 
@@ -96,17 +101,25 @@ You also must indicate on each homework with whom you have collaborated.
 
 #### Regrade Policy
 
-If you feel that we have made a mistake in grading your homework, please submit a regrading request on Gradescope and we will consider your request.
-Please note that regrading of a homework may cause your grade to go either up or down.
+If you feel that we have made a mistake in grading your homework,
+please submit a regrading request on Gradescope and we will consider
+your request. Please note that regrading of a homework may cause your
+grade to go either up or down.
+
 
 ***
 
 ### Project
 
-The project will be carried out in groups of 2 people, and has four main parts: a proposal, a midway report, a final report, and a poster/oral presentation.
-The project is an integral part of this class, and is designed to be as similar as possible to researching and writing a conference-style paper.
+The project will be carried out in groups of 2 people, and has four
+main parts: a proposal, a midway report, a final report, and a
+poster/oral presentation. The project is an integral part of this
+class, and is designed to be as similar as possible to researching and
+writing a conference-style paper.
 
-Please see the [project page](project/) for more information about the final project.
+Please see the project page for more information about the final
+project.
+
 
 ***
 
@@ -151,4 +164,3 @@ Efros](http://people.eecs.berkeley.edu/~efros/), [Alexander Berg](http://acberg.
 others. Many thanks to [Richard
 Szeliski](http://szeliski.org/RichardSzeliski.htm) for making the
 computer vision textbook available online for free.
-
