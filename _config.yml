@@ -8,7 +8,7 @@ email: smaji@cs.umass.edu
 description: >
   COMPSCI 670 - Computer Vision - University of Massachusetts, Amherst - Fall 2022
 footer_text: >
-  Based on <a href=https://sailinglab.github.io/pgm-spring-2019/>PGM course</a> at CMU, powered by <a href="http://jekyllrb.com/" target="_blank">jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. 
+  Based on the <a href=https://sailinglab.github.io/pgm-spring-2019/>PGM course</a> at CMU, powered by <a href="http://jekyllrb.com/" target="_blank">jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. 
 
 url: https://people.cs.umass.edu # the base hostname & protocol for your site
 baseurl: /~smaji/teaching/tmp # the subpath of your site, e.g. /blog/
@@ -16,7 +16,7 @@ baseurl: /~smaji/teaching/tmp # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: 
+github_username: cvl-umass
 google_analytics: 
 youtube_channel: 
 rss:  # notes rss
@@ -26,16 +26,6 @@ rss:  # notes rss
 # -----------------------------------------------------------------------------
 blog_name: Course Notes
 blog_description: The notes written by students and edited by instructors
-
-# Pagination
-paginate: 10
-permalink: /notes/:title/
-paginate_path: /notes/page:num/
-
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
 
 # Comments
 disqus_shortname: # put your disqus shortname
