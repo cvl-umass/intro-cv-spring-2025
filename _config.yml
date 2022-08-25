@@ -10,15 +10,16 @@ description: >
 footer_text: >
   Based on the <a href=https://sailinglab.github.io/pgm-spring-2019/>PGM course</a> at CMU, powered by <a href="http://jekyllrb.com/" target="_blank">jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. 
 
-url: https://cvl-umass.github.io # the base hostname & protocol for your site
-baseurl: /cv-fall-2022 # the subpath of your site, e.g. /blog/
+url: https://cvl-umass.github.io/ # the base hostname & protocol for your site
+baseurl: cv-fall-2022 # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: cvl-umass
+github_username: cvl-umass2
 google_analytics: 
-youtube_channel: 
+youtube_channel:
+website: https://people.cs.umass.edu/~smaji/
 rss:  # notes rss
 
 # -----------------------------------------------------------------------------
