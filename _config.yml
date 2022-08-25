@@ -16,7 +16,7 @@ baseurl: cv-fall-2022 # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: cvl-umass2
+github_username: cvl-umass
 google_analytics: 
 youtube_channel:
 website: https://people.cs.umass.edu/~smaji/
