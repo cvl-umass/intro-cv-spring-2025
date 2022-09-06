@@ -36,8 +36,8 @@ All write-ups should use the [CVPR style](https://cvpr2022.thecvf.com/sites/defa
 
 ### Team Formation
 
-You are responsible for forming project teams of 2 people.
-In some cases, we will also accept smaller or larger teams, but a 2 person group is preferred.
+You are responsible for forming project teams of two or three people.
+In some cases, we will also accept smaller or larger teams, but a 2-3 person group is preferred.
 If you have trouble forming a group, please send us an email and we
 will help you find project partners.
 
