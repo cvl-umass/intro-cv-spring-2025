@@ -2,6 +2,7 @@
   lecturer: Subhransu
   title: >
     <strong>Introduction and logistics</strong>
+  slides: "https://umass-my.sharepoint.com/:b:/g/personal/smaji_umass_edu/EQQ65kKPhEJMg2EgWAVWB90BsNlhCqLocM1_SmyZPOhJag"
   logistics:
     <span class="deadline">Setup Piazza, Moodle, Gradescope</span>
   readings:
@@ -49,7 +50,7 @@
   title: <strong>Linear filtering</strong>
   logistics:
    <span class="deadline">HW2 out (due 10/10)</span>
-   
+
 - title: "Module 3: Correspondence, Alignment, Geometry"
 
 - date: 9/28
@@ -148,7 +149,3 @@
 
 - date: 12/12
   title: Poster presentations (TBD)
-
-
-
-
