@@ -120,6 +120,21 @@ writing a conference-style paper.
 Please see the project page for more information about the final
 project.
 
+***
+### Auditing
+
+To satisfy the auditing requirement, you must do _one_ of the
+following:
+
+1. **Submit two homeworks** and receive at least 75% of the points on
+   each one.
+2. **Submit one homework** and **do a class project** which must
+   address a topic related to computer vision and must be somthing
+   that you have started while taking the class (i.e. it can't be your
+   previous work). You will need to submit a project proposal with
+   everyone else, present the project with everyone, and write the
+   final report. You must get at least 75% of the points in both the
+   homework and the project.
 
 ***
 
