@@ -36,6 +36,12 @@
 
 - date: 9/19
   lecturer: Subhransu
+  title: <strong>Light and color; Image formation</strong>
+  readings:
+  - Szeliski book, Chapter 2
+
+- date: 9/21
+  lecturer: Subhransu
   title: <strong>Image formation</strong>
   readings:
   - Szeliski book, Chapter 2
@@ -44,15 +50,14 @@
 
 
 
-
 - title: "Module 2: Basic Image Processing"
 
 
-- date: 9/21
+- date: 9/26
   lecturer: Subhransu
   title: <strong>Modeling images</strong>
 
-- date: 9/26
+- date: 9/28
   lecturer: Subhransu
   title: <strong>Linear filtering</strong>
   logistics:
@@ -60,13 +65,9 @@
 
 - title: "Module 3: Correspondence, Alignment, Geometry"
 
-- date: 9/28
-  lecturer: Subhransu
-  title: <strong>Optical flow</strong>
-
 - date: 10/3
   lecturer: Subhransu
-  title: <strong>Interest points</strong>
+  title: <strong>Optical flow</strong>
 
 
 - date: 10/5
