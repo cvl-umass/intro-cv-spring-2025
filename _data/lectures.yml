@@ -48,20 +48,17 @@
   - <a href="https://en.wikipedia.org/wiki/Camera">Wikipedia article on camera</a>
   - <a href="https://ict.usc.edu/research/projects/light-stages/">Light stages at USC</a>
 
-
-
 - title: "Module 2: Basic Image Processing"
-
 
 - date: 9/26
   lecturer: Subhransu
   title: <strong>Modeling images</strong>
+  logistics:
+   <span class="deadline">HW2 out (due 10/10)</span>
 
 - date: 9/28
   lecturer: Subhransu
   title: <strong>Linear filtering</strong>
-  logistics:
-   <span class="deadline">HW2 out (due 10/10)</span>
 
 - title: "Module 3: Correspondence, Alignment, Geometry"
 
