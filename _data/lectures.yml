@@ -55,6 +55,10 @@
   title: <strong>Modeling images</strong>
   logistics:
    <span class="deadline">HW2 out (due 10/10)</span>
+  readings:
+  - <a href="https://people.eecs.berkeley.edu/~efros/research/EfrosLeung.html">Texture synthesis by non-parametric sampling</a>, Efros and Leung, 99
+  - <a href="https://www.ipol.im/pub/art/2011/bcm_nlm/article.pdf">Non-local means denoising</a>, Buades et al., 11
+  - OpenAI <a href="https://openai.com/dall-e-2/">DALL&#183;E 2</a> and <a href="https://openai.com/blog/gpt-3-apps/">GPT3</a>
 
 - date: 9/28
   lecturer: Subhransu
