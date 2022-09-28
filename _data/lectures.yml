@@ -63,6 +63,10 @@
 - date: 9/28
   lecturer: Subhransu
   title: <strong>Linear filtering</strong>
+  readings:
+  - Szeliski book, Chaper 3
+  - <a href="http://olivalab.mit.edu/hybridimage.htm">Hybrid images</a>
+  - <a href="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/">Berkeley segmentation dataset</a>
 
 - title: "Module 3: Correspondence, Alignment, Geometry"
 
