@@ -75,7 +75,8 @@ The grading breakdown for the proposal is as follows:
 - 10% for plan of activities
 - 10% for quality of writing
 
-The project proposal should be submitted via [Gradescope]().
+The project proposal will be due at **11:59 PM on Thursday, October
+20**, and must be submitted via [Gradescope](). 
 
 ### Final Report
 
@@ -104,7 +105,7 @@ The grading breakdown for the final report is as follows:
 - 20% for quality of writing (clarity, organization, flow, etc.)
 
 The project final report will be due at **11:59 PM on Friday, December
-16** (tentative), and must be submitted via [Gradescope](). 
+18**, and must be submitted via [Gradescope](). 
 
 _Note that late days do not apply to the final report._
 
