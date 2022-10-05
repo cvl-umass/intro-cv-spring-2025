@@ -81,20 +81,24 @@
 - date: 10/5
   lecturer: Subhransu
   title: >
-       <strong>Interest points</strong>
+       <strong>Feature detection and matching</strong>
+  readings:
+  - Szeliski book, Chapter 7.1
 
 - date: 10/10
   title: No class (Indigenous Peoples Day)
 
 - date: 10/12
   lecturer: Subhransu
-  title: <strong>Image transformations</strong>
+  title: <strong>Image transformations and alignment</strong>
   logistics:
    <span class="deadline">HW3 out (due 10/31)</span>
+  readings:
+    - Szeliski book, Chapter 8.1
 
 - date: 10/17
   lecturer: Subhransu
-  title: <strong>Image alignment</strong>
+  title: <strong>Image transformations and alignment</strong>
 
 - date: 10/19
   lecturer: Subhransu
