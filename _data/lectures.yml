@@ -91,8 +91,6 @@
 - date: 10/12
   lecturer: Subhransu
   title: <strong>Image transformations and alignment</strong>
-  logistics:
-   <span class="deadline">HW3 out (due 10/31)</span>
   readings:
     - Szeliski book, Chapter 8.1
 
@@ -102,6 +100,8 @@
   readings:
     - Szeliski book, Chapter 8.2 & 11
     - <a href="https://www.robots.ox.ac.uk/~vgg/software/vise/">VGG image search</a>
+  logistics:
+   <span class="deadline">HW3 out (due 11/7)</span>
 
 - title: "Module 4: Fundamentals of Neural Networks"
 
@@ -111,17 +111,15 @@
 
 - date: 10/24
   lecturer: Subhransu, <i>remote</i>
-  title: <strong>Linear models</strong>
+  title: <strong>Project feedback</strong>
 
 - date: 10/26
   lecturer: Subhransu, <i>remote</i>
-  title: <strong>Linear models</strong>
-  logistics:
-   <span class="deadline">HW4 out (due 11/14)</span>
+  title: <strong>Project feedback</strong>
 
 - date: 10/31
   lecturer: Subhransu
-  title: <strong>Neural networks</strong>
+  title: <strong>Linear models</strong>
 
 - date: 11/2
   lecturer: Subhransu
@@ -130,6 +128,8 @@
 - date: 11/7
   lecturer: Subhransu
   title: <strong>Neural networks</strong>
+  logistics:
+   <span class="deadline">HW4 out (due 11/30)</span>
 
 
 - title: "Module 5: Advanced Topics in Recognition"
@@ -141,8 +141,6 @@
 - date: 11/14
   lecturer: Subhransu
   title: <strong>Object detection</strong>
-  logistics:
-   <span class="deadline">HW5 out (due 11/30)</span>
 
 
 - date: 11/16
