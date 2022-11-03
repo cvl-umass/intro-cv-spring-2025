@@ -108,6 +108,11 @@
 - date: 10/19
   lecturer: Subhransu
   title: <strong>Intro to recognition</strong>
+  readings:
+    - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Visual categorization with bag of keypoints</a>, Csurka et al., 2004
+    - <a href="https://ieeexplore.ieee.org/document/1467360">Histogram of Oriented Gradients</a>, Dalal & Triggs, 2005
+    - <a href="https://www.nature.com/articles/290091a0">Textons, the elements of texture perception, and their interactions</a>, Julesz, 1981
+    - <a href="https://public.roboflow.com/">Computer vision datasets</a> (via Roboflow)
 
 - date: 10/24
   lecturer: Subhransu, <i>remote</i>
@@ -120,6 +125,9 @@
 - date: 10/31
   lecturer: Subhransu
   title: <strong>Linear models</strong>
+  readings:
+    - <a href="https://link.springer.com/article/10.1007/BF02478259">Perceptron paper</a>, McColloch & Pitts, 1943
+    - <a href="https://en.wikipedia.org/wiki/Linear_classifier">Linear classifier</a>, Wikipedia
 
 - date: 11/2
   lecturer: Subhransu
