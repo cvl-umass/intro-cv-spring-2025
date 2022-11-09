@@ -132,7 +132,11 @@
 - date: 11/2
   lecturer: Subhransu
   title: <strong>Neural networks</strong>
-
+  readings:
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=726791">LeNet</a>, <a href="https://dl.acm.org/doi/pdf/10.1145/3065386">AlexNet</a>
+    - <a href="https://www.image-net.org/">ImageNet</a>
+    - <a href="https://openai.com/blog/microscope/">OpenAI Microscope</a> (model visualizer)
+    - <a href="https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html">Pytorch CNN tutorial</a>
 - date: 11/7
   lecturer: Subhransu
   title: <strong>Neural networks</strong>
@@ -145,6 +149,13 @@
 - date: 11/9
   lecturer: Subhransu
   title: <strong>Transfer learning</strong>
+  readings:
+    - <a href="https://openaccess.thecvf.com/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf">CNNs off-the-shelf</a>, Razavian et al., 2014
+    - <a href="https://openaccess.thecvf.com/content_cvpr_2015/html/Cimpoi_Deep_Filter_Banks_2015_CVPR_paper.html">Deep Filter Banks</a>, Cimpoi et al., 2015
+    - <a href="https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Lin_Bilinear_CNN_Models_ICCV_2015_paper.html">Bilinear CNNs</a>, Lin et al., 2015
+    - <a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.html">Taskonomy</a>, Zamir et al., 2018
+    - <a href="https://openaccess.thecvf.com/content_ICCV_2019/html/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.html">Task2Vec</a>, Achille et al., 2019
+
 
 - date: 11/14
   lecturer: Subhransu
