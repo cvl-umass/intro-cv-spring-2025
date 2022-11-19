@@ -30,7 +30,7 @@
 
 - date: 9/16
   lecturer: Zezhou, Ashish
-  title: <strong>Python tutorial</strong>
+  title: <strong>Python tutorial</strong> (Friday)
   readings:
   - <a href="https://colab.research.google.com/drive/1lYkyZDypN5Cm2a77Su60n39Hq0z3F4VA?usp=sharing">Collab page</a>
 
@@ -172,18 +172,23 @@
 
 - date: 11/21
   lecturer: Subhransu
-  title: <strong>Object detection</strong>
+  title: <strong>Object detection; Image segmentation</strong>
+  readings:
+    - <a href="https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html">Mask R-CNN</a>, He et al., ICCV 2017
+    - <a href="https://openaccess.thecvf.com/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html">Fully convolutional networks</a>, Long & Shelhamer et al., CVPR 15
+    - <a href="https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/">UNet</a>, Ronneberger et al., MICCAI 15
+    - <a href="">Panoptic FCN</a>, Kirillov et al., CVPR 19
 
 - date: 11/23
-  title: No class (Thansgiving recess)
+  title: No class (Thanksgiving break)
 
 - date: 11/28
   lecturer: Subhransu
-  title: <strong>Image segmentation</strong>
+  title: <strong>3D shape understanding</strong>
 
 - date: 11/30
   lecturer: Subhransu
-  title: <strong>3D shape understanding</strong>
+  title: <strong>Unsupervised learning</strong>
 
 - date: 12/5
   lecturer: Subhransu
@@ -194,4 +199,8 @@
   title: <strong>Generative modeling</strong>
 
 - date: 12/12
-  title: Poster presentations (TBD)
+  lecturer: Subhransu
+  title: <strong>Generative modeling</strong>
+
+- date: 12/13
+  title: Poster presentations (CS 150/151)
