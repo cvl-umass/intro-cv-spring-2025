@@ -184,11 +184,19 @@
 
 - date: 11/28
   lecturer: Subhransu
-  title: <strong>3D shape understanding</strong>
+  title: <strong>Image generation</strong>
+  readings:
+    - <a href="https://arxiv.org/abs/1412.0035">Inverting deep representations</a>, Mahendran & Vedaldi, 2014
+    - <a href="https://papers.nips.cc/paper/2015/hash/a5e00132373a7031000fd987a3c9f87b-Abstract.html">Texture synthesis & style transfer using CNNs</a>, Gatys et al., 2015
+    - <a href="https://arxiv.org/abs/1603.03417">Texture networks</a>, Ulyanov et al., 2016
+    - <a href="https://arxiv.org/abs/1511.05197">Visualizing deep texture representations</a>, Lin & Maji, 2016
+    - <a href="https://dl.acm.org/doi/abs/10.1145/3422622">Generative adversarial networks</a>, Goodfellow et al., 2020 (CACM version)
+    - <a href="https://dmitryulyanov.github.io/deep_image_prior">Deep image prior</a>, Ulyanov et al., 2017
+    - Some theory on the deep image prior (<a href="https://arxiv.org/abs/1904.07457">Gaussian process</a>, <a href="https://link.springer.com/article/10.1007/s11263-021-01572-7">Spectral bias</a>)
 
 - date: 11/30
   lecturer: Subhransu
-  title: <strong>Unsupervised learning</strong>
+  title: <strong>3D shape understanding</strong>
 
 - date: 12/5
   lecturer: Subhransu
@@ -196,11 +204,11 @@
 
 - date: 12/7
   lecturer: Subhransu
-  title: <strong>Generative modeling</strong>
+  title: <strong>Unsupervised modeling</strong>
 
 - date: 12/12
   lecturer: Subhransu
-  title: <strong>Generative modeling</strong>
+  title: <strong>TBD</strong>
 
 - date: 12/13
   title: Poster presentations (CS 150/151)
