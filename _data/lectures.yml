@@ -209,7 +209,7 @@
     - Instance discrimination - <a href="https://proceedings.neurips.cc/paper/2014/hash/07563a3fe3bbe7e3ba84431ad9d055af-Abstract.html">Dosovitskiy et al., 2015</a>, <a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.html">Xu et al., 2018</a>, <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.html">MOCO</a>, <a href="https://arxiv.org/abs/2002.05709">SimCLR</a>, <a href="https://arxiv.org/abs/2006.07733">BYOL</a>
     - 3D - <a href="https://link.springer.com/chapter/10.1007/978-3-030-58580-8_34">PointContrast</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-030-58607-2_28">Convex Decomposition</a>
     - Audio -  <a href="https://link.springer.com/chapter/10.1007/978-3-319-46448-0_48">Owens et al., 2016</a>
-    - Video -  Correspondence <a href="https://proceedings.neurips.cc/paper/2020/hash/e2ef524fbf3d9fe611d5a8e90fefdc9c-Abstract.html">Jabri et al., 2020</a>, Future prediction <a href="https://link.springer.com/chapter/10.1007/978-3-319-46478-7_51">Walker et al., 2016</a>
+    - Video correspondence <a href="https://proceedings.neurips.cc/paper/2020/hash/e2ef524fbf3d9fe611d5a8e90fefdc9c-Abstract.html">Jabri et al., 2020</a>, Future prediction <a href="https://link.springer.com/chapter/10.1007/978-3-319-46478-7_51">Walker et al., 2016</a>
     - Generative modeling -  <a href="https://arxiv.org/abs/2103.04379">RepurposingGANs 2021</a>, <a href="https://arxiv.org/abs/2104.06490">DatasetGAN 2021</a>
     - Generative or Contrastive? <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Saha_GanOrCon_Are_Generative_Models_Useful_for_Few-Shot_Segmentation_CVPR_2022_paper.html">Saha et al., 22</a>
 
@@ -219,7 +219,12 @@
 
 - date: 12/12
   lecturer: Subhransu
-  title: <strong>TBD</strong>
+  title: <strong>3D shape understanding</strong>
+  readings:
+    - Multiview CNN, Su et al., 2015
+    - VoxNet
+    - PointNet, SplatNet, MRTNet
+    
 
 - date: 12/13
   title: Poster presentations (CS 150/151)
