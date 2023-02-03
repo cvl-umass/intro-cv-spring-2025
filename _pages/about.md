@@ -17,10 +17,10 @@ The course will emphasize mathematical foundations rather than relying on softwa
 
 - **Time:** Tuesday/Thursday 11:30AM -- 12:45PM
 - **Location:** LGRC, A301
-- **Discussion:** [Piazza]()
+- **Discussion:** [Piazza](https://piazza.com/umass/spring2023/compsci370)
 - **Homework:** [Moodle]() and [Gradescope]()
 - **Contact:** Students should ask all course-related questions on
-  [Piazza](), where you will also find announcements. For external
+  Piazza, where you will also find announcements. For external
   enquiries, personal matters, or in emergencies, you can email the Instructor.
 
 ***
