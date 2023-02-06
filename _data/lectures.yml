@@ -1,10 +1,9 @@
 - date: 2/7
   title: <strong>Introduction and logistics</strong>
-  logistics:
-    <span class="deadline">Piazza, Moodle, Gradescope</span>
   readings:
    - Szeliski book, Chapter 1
    - <a href="https://www.cs.princeton.edu/courses/archive/spring08/cos598B/Readings/ThorpeFizeMarlot1996.pdf">The speed of processing in the human visual system</a>, Thorpe et al., 1996
+  logistics:
 
 - title: "Module 1: Image Formation"
 
@@ -12,7 +11,7 @@
   title: >
     <strong>Light and color</strong> <br/>
     - Spectral basis of light <br/>
-    - Color perception in the human eye<br/>
+    - Color perception in the human eye
   readings:
   - Szeliski book, Chapter 2
   - <a href="https://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see">Beau Lotto's TED talk</a>
@@ -22,7 +21,7 @@
   title: >
     <strong>Light and color</strong> <br/>
     - Tristimulus theory and color spaces <br/>
-    - Color phenomenon <br/>
+    - Color phenomenon
   readings:
   logistics:
 
@@ -30,7 +29,7 @@
   title: >
     <strong>Image formation</strong><br/>
     - Pinhole camera model<br/>
-    - Qualitative properties<br/>
+    - Qualitative properties
   readings:
   - Szeliski book, Chapter 2
   logistics:
@@ -39,8 +38,7 @@
   title: >
     <strong>Image formation</strong><br/>
     - Cameras with lenses <br/>
-    - Lens phenomenon <br/>
-
+    - Lens phenomenon
   readings:
   logistics:
 
@@ -51,7 +49,6 @@
   title: <strong>Digital image representation</strong>
   readings:
   logistics:
-   <span class="deadline">HW2 out (due 10/10)</span>
 
 - date: 2/28
   title: <strong>Python tutorial</strong>
@@ -117,7 +114,6 @@
 - date: 4/11
   title: <strong>Image alignment and RANSAC</strong>
   logistics:
-   <span class="deadline">HW4 out (due 11/30)</span>
 
 
 - date: 4/13

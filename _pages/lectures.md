@@ -3,6 +3,8 @@ layout: schedule
 permalink: /lectures/
 title: Schedule
 ---
+Lectures slides and annotations will appear <a href="https://umass-my.sharepoint.com/:f:/g/personal/smaji_umass_edu/Enj1cgQKn1tAopTl2EqJZ38B9ppAiCpjKvWz8I6dAh0J1w?e=f3JtOv">here</a> (UMass credentials required). <br>
+Links to the Echo360 recordings on Moodle two weeks after each lecture.
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
@@ -32,7 +34,6 @@ title: Schedule
         {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
         <br />
         {{ lecture.title }}
-        <br />
     </td>
     <td>
         {% if lecture.readings %}
