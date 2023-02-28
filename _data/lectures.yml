@@ -46,18 +46,28 @@
 - title: "Module 2: Image Processing"
 
 - date: 2/23
-  title: <strong>Digital image representation</strong>
+  title: No class (snow day)
   readings:
   logistics:
 
+
 - date: 2/28
-  title: <strong>Python tutorial</strong>
+  title: <strong>Digital images</strong><br/>
+    - Analog and digital color sensing <br/>
+    - Alignment and demosacing<br/>
+    - Spatial and bightness quantization <br/>
+    - Color displays and colormaps <br/>
   readings:
+    - <a href="https://www.loc.gov/pictures/collection/prok/">Prokudin-Gorskii Collection</a> at the Library of Congress
+    - <a href="https://en.wikipedia.org/wiki/Color_filter_array">Color filter arrays</a>
+
   logistics:
 
 - date: 3/2
-  title: <strong>Image processing</strong>
+  title: <strong>Python tutorial</strong>
   readings:
+    - <a href="https://colab.research.google.com/drive/1_6TNsXj6c0yaye3lVKBaxj92KOvOB7A_?usp=sharing">Python basics and numpy</a>
+    - <a href="https://colab.research.google.com/drive/1sK4TSepH-qUNMuwZOl9rI0P5YuSlHYSO?usp=sharing">Matplotlib and skimage</a>
   logistics:
 
 - date: 3/7
@@ -67,7 +77,7 @@
   - Szeliski book, Chapter 7.1
 
 - date: 3/9
-  title: <strong>Hough transformation and model fitting</strong>
+  title: <strong>Model fitting</strong>
   readings:
     - Szeliski book, Chapter 8.1
   logistics:
