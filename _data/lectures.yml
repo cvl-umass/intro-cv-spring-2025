@@ -96,15 +96,13 @@
 
 - date: 3/21
   title: >
-    <strong>Model fitting: I</strong><br>
-    - Hough transformation<br>
+    <strong>Corner detection: I</strong>
   readings:
   logistics:
 
 - date: 3/23
   title: >
-    <strong>Model fitting: II</strong><br>
-    - RANSAC<br>
+    <strong>Corner detection: II</strong>
   readings:
   logistics:
 
@@ -122,13 +120,11 @@
 
 
 - date: 4/4
-  title: <strong>Corner detection and matching</strong>
+  title: <strong>Image matching</strong>
   readings:
-    - <a href="https://link.springer.com/article/10.1007/BF02478259">Perceptron paper</a>, McColloch & Pitts, 1943
-    - <a href="https://en.wikipedia.org/wiki/Linear_classifier">Linear classifier</a>, Wikipedia
 
 - date: 4/6
-  title: <strong>Corner detection and matching</strong>
+  title: <strong>Feature matching</strong>
   readings:
 
 - date: 4/11
