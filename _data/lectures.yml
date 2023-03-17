@@ -72,12 +72,18 @@
 
 - date: 3/7
   title: >
-       <strong>Image processing</strong>
+       <strong>Image processing: I</strong><br>
+       - Improving brightness and contrast<br>
+       - Filtering and convolution<br>
+       - Smoothing<br>
   readings:
   - Szeliski book, Chapter 7.1
 
 - date: 3/9
-  title: <strong>Model fitting</strong>
+  title: >
+       <strong>Image processing: II </strong><br>
+       - Sharpening<br>
+       - Edge detection<br>
   readings:
     - Szeliski book, Chapter 8.1
   logistics:
@@ -89,22 +95,26 @@
   title: No class (Spring break)
 
 - date: 3/21
-  title: <strong>Optical flow</strong>
+  title: >
+    <strong>Model fitting: I</strong><br>
+    - Hough transformation<br>
   readings:
   logistics:
 
 - date: 3/23
-  title: <strong>Optical flow</strong>
+  title: >
+    <strong>Model fitting: II</strong><br>
+    - RANSAC<br>
   readings:
   logistics:
 
 - date: 3/28
-  title: Midterm review
+  title: Midterm review (TBD)
   readings:
   logistics:
 
 - date: 3/30
-  title: <strong>Midterm exam (in class)</strong>
+  title: Midterm exam (in class)
 
 
 
@@ -118,16 +128,16 @@
     - <a href="https://en.wikipedia.org/wiki/Linear_classifier">Linear classifier</a>, Wikipedia
 
 - date: 4/6
-  title: <strong>Image transformations</strong>
+  title: <strong>Corner detection and matching</strong>
   readings:
 
 - date: 4/11
-  title: <strong>Image alignment and RANSAC</strong>
+  title: <strong>Transformations and alignment</strong>
   logistics:
 
 
 - date: 4/13
-  title: <strong>Intro to recognition</strong>
+  title: <strong>Transformations and alignment</strong>
   readings:
 
 - date: 4/20
@@ -135,7 +145,7 @@
 
 
 - date: 4/25
-  title: <strong>Image representations</strong>
+  title: <strong>Image representations and recognition</strong>
   readings:
 
 - date: 4/27
@@ -160,4 +170,4 @@
   title: Final review
 
 - date: 5/22
-  title: <strong>Final exam (1:00 PM - 3:00 PM, LGRC A301)</strong>
+  title: Final exam (1:00 PM - 3:00 PM, LGRC A301)
