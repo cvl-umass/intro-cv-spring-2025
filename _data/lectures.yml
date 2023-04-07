@@ -96,18 +96,26 @@
 
 - date: 3/21
   title: >
-    <strong>Corner detection: I</strong>
+    <strong>Corner detection: I</strong><br>
+    - Local descriptors<br>
+    - Simple corner detector<br>
+    - Harris corner detector<br>
+    - The second moment matrix<br>
   readings:
   logistics:
 
 - date: 3/23
   title: >
-    <strong>Corner detection: II</strong>
+    <strong>Corner detection: II</strong><br>
+        - Local descriptors<br>
+        - Simple corner detector<br>
+        - Harris corner detector<br>
+        - The second moment matrix<br>
   readings:
   logistics:
 
 - date: 3/28
-  title: Midterm review (TBD)
+  title: Midterm review
   readings:
   logistics:
 
@@ -120,11 +128,20 @@
 
 
 - date: 4/4
-  title: <strong>Image matching</strong>
+  title: >
+    <strong>Blob detection</strong><br>
+    - Invariance and equivariance<br>
+    - Scale equivariant features<br>
+    - Image pyramid and scale-space
+
   readings:
 
 - date: 4/6
-  title: <strong>Feature matching</strong>
+  title: <strong>Feature matching and model fitting</strong><br>
+    - Feature descriptors<br>
+    - Matching and ratio test<br>
+    - Robust model fitting using RANSAC<br>
+
   readings:
 
 - date: 4/11
@@ -133,15 +150,15 @@
 
 
 - date: 4/13
-  title: <strong>Transformations and alignment</strong>
+  title: <strong>Recognition by alignment</strong>
   readings:
 
 - date: 4/20
-  title: <strong>Recognition by alignment</strong>
+  title: <strong>Representations for recognition</strong>
 
 
 - date: 4/25
-  title: <strong>Image representations and recognition</strong>
+  title: <strong>Representations for recognition</strong>
   readings:
 
 - date: 4/27
