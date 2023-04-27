@@ -176,32 +176,50 @@
     - <a href="https://www.acberg.com/gb.html">Geometric blur</a>
 
 - date: 4/20
-  title: <strong>Introduction to recognition</strong>
+  title: <strong>Introduction to recognition</strong><br>
+    - What is recognition?<br>
+    - Brief history of recognition<br>
+    - Current trends<br>
   readings:
-    - Szeliski book, Chapter 5
+    - Szeliski book, Chapter 6
 
 
 - date: 4/25
-  title: <strong>Representations for recognition</strong>
+  title: <strong>Representations for recognition</strong><br>
+    - The machine learning framework<br>
+    - Role of representations<br>
+    - A tale of two representations (HOG and BOVW)<br>
   readings:
 
 - date: 4/27
-  title: <strong>Machine learning</strong>
+  title: <strong>Machine learning</strong><br>
+    - Learning framework<br>
+    - Decision trees<br>
+    - Nearest neighbor classifiers<br>
   readings:
+    - Szeliski book, Chapter 5
 
 - date: 5/2
-  title: <strong>Machine learning</strong>
+  title: <strong>Machine learning</strong><br>
+    - Perceptrons<br>
+    - Linear classifiers and optimization<br>
   readings:
+    - Szeliski book, Chapter 5
 
 - date: 5/4
   title: <strong>Object detection</strong>
+  readings:
+    - Szeliski book, Chapter 6
 
 - date: 5/9
   title: <strong>Image segmentation</strong>
   readings:
+    - Szeliski book, Chapter 6
 
 - date: 5/11
   title: <strong>Deep learning</strong>
+  readings:
+    - Szeliski book, Chapter 5
 
 - date: 5/16
   title: Final review
