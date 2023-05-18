@@ -190,6 +190,8 @@
     - Role of representations<br>
     - A tale of two representations (HOG and BOVW)<br>
   readings:
+    - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Histogram of Oriented Gradients, Dalal and Triggs, CVPR 2005</a><br>
+    - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Visual Words, Csurka et al., ECCV 2004</a>
 
 - date: 4/27
   title: <strong>Machine learning</strong><br>
@@ -207,17 +209,25 @@
     - Szeliski book, Chapter 5
 
 - date: 5/4
-  title: <strong>Object detection</strong>
+  title: <strong>Object detection</strong><br>
+    - Detection task<br>
+    - Datasets and evaluation metrics<br>
+    - Sliding window detector<br>
   readings:
     - Szeliski book, Chapter 6
 
 - date: 5/9
-  title: <strong>Image segmentation</strong>
+  title: <strong>Object detection; Deep learnining</strong><br>
+    - Region-based detector<br>
+    - Properties of two layer networks<br>
   readings:
     - Szeliski book, Chapter 6
 
 - date: 5/11
-  title: <strong>Deep learning</strong>
+  title: <strong>Deep learning</strong><br>
+      - Learning via backpropagation <br>
+      - LeNet and AlexNet<br>
+      - Visualizing filters in AlexNet<br>
   readings:
     - Szeliski book, Chapter 5
 
