@@ -11,7 +11,7 @@ footer_text: >
   Based on the <a href=https://sailinglab.github.io/pgm-spring-2019/>PGM course</a> at CMU.
 
 url: https://cvl-umass.github.io/ # the base hostname & protocol for your site
-baseurl: /intro-cv-spring-2023/ # the subpath of your site, e.g. /blog/
+baseurl: /intro-cv-spring-2024/ # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
