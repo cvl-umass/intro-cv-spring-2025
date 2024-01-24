@@ -1,10 +1,8 @@
 ---
 layout: schedule
 permalink: /lectures/
-title: Schedule
+title: Lecture schedule
 ---
-Lectures slides, notes and annotations will appear <a href="https://umass-my.sharepoint.com/:f:/g/personal/smaji_umass_edu/Enj1cgQKn1tAopTl2EqJZ38B9ppAiCpjKvWz8I6dAh0J1w?e=f3JtOv">in this folder</a> (UMass credentials required). <br>
-Links to the Echo360 will be posted on Piazza two weeks after each lecture. For early access submit the request form on Piazza.
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
@@ -30,9 +28,8 @@ Links to the Echo360 will be posted on Piazza two weeks after each lecture. For 
     <td colspan="4" align="center">{{ lecture.title }}</td>
     {% else %}
     <td>
-        Lecture #{{ forloop.index | minus: current_module | minus: skip_classes }}
+        #{{ forloop.index | minus: current_module | minus: skip_classes }}
         {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
-        <br />
         {{ lecture.title }}
     </td>
     <td>

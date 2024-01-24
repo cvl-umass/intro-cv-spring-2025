@@ -1,59 +1,57 @@
-- date: 2/7
+- date: 2/1
   title: <strong>Introduction and logistics</strong>
   readings:
    - Szeliski book, Chapter 1
    - <a href="https://www.cs.princeton.edu/courses/archive/spring08/cos598B/Readings/ThorpeFizeMarlot1996.pdf">The speed of processing in the human visual system</a>, Thorpe et al., 1996
-  logistics:
 
 - title: "Module 1: Image Formation"
 
-- date: 2/9
-  title: >
+- date: 2/6
+  title:
     <strong>Light and color</strong> <br/>
     - Spectral basis of light <br/>
     - Color perception in the human eye
   readings:
   - Szeliski book, Chapter 2
   - <a href="https://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see">Beau Lotto's TED talk</a>
-  logistics:
 
-- date: 2/14
+- date: 2/8
   title: >
     <strong>Light and color</strong> <br/>
     - Tristimulus theory and color spaces <br/>
     - Color phenomenon
   readings:
-  logistics:
 
-- date: 2/16
+- date: 2/13
   title: >
     <strong>Image formation</strong><br/>
     - Pinhole camera model<br/>
     - Qualitative properties
   readings:
   - Szeliski book, Chapter 2
-  logistics:
 
-- date: 2/21
+- date: 2/15
   title: >
     <strong>Image formation</strong><br/>
     - Cameras with lenses <br/>
     - Lens phenomenon
   readings:
     - Szeliski book, Chapter 2
-  logistics:
+
+
+- date: 2/20
+  title: <strong>Python tutorial</strong>
+  readings:
+    - <a href="https://colab.research.google.com/drive/1_6TNsXj6c0yaye3lVKBaxj92KOvOB7A_?usp=sharing">Python basics and numpy</a>
+    - <a href="https://colab.research.google.com/drive/1sK4TSepH-qUNMuwZOl9rI0P5YuSlHYSO?usp=sharing">Matplotlib and skimage</a>
 
 
 - title: "Module 2: Image Processing"
 
-- date: 2/23
-  title: No class (snow day)
-  readings:
-  logistics:
 
 
-- date: 2/28
-  title: <strong>Digital images</strong><br/>
+- date: 2/27
+  title: <strong>Digital image representation</strong><br/>
     - Analog and digital color sensing <br/>
     - Alignment and demosacing<br/>
     - Spatial and bightness quantization <br/>
@@ -63,16 +61,7 @@
     - <a href="https://www.loc.gov/pictures/collection/prok/">Prokudin-Gorskii Collection</a> at the Library of Congress
     - <a href="https://en.wikipedia.org/wiki/Color_filter_array">Color filter arrays</a>
 
-  logistics:
-
-- date: 3/2
-  title: <strong>Python tutorial</strong>
-  readings:
-    - <a href="https://colab.research.google.com/drive/1_6TNsXj6c0yaye3lVKBaxj92KOvOB7A_?usp=sharing">Python basics and numpy</a>
-    - <a href="https://colab.research.google.com/drive/1sK4TSepH-qUNMuwZOl9rI0P5YuSlHYSO?usp=sharing">Matplotlib and skimage</a>
-  logistics:
-
-- date: 3/7
+- date: 2/29
   title: >
        <strong>Image processing: I</strong><br>
        - Improving brightness and contrast<br>
@@ -81,22 +70,30 @@
   readings:
   - Szeliski book, Chapter 3
 
-- date: 3/9
+- date: 3/5
   title: >
        <strong>Image processing: II </strong><br>
        - Sharpening<br>
        - Edge detection<br>
   readings:
     - Szeliski book, Chapter 3
-  logistics:
+
+- date: 3/7
+  title: Midterm review
+
+- date: 3/12
+  title: Midterm exam in class
 
 - date: 3/14
-  title: No class (Spring break)
+  title: <strong>Invited speaker (TBD)</strong>
 
-- date: 3/16
-  title: No class (Spring break)
+- date: 3/19
+  title: No class (Spring Break)
 
 - date: 3/21
+  title: No class (Spring Break)
+
+- date: 3/26
   title: >
     <strong>Corner detection: I</strong><br>
     - Local descriptors<br>
@@ -105,9 +102,8 @@
     - The second moment matrix<br>
   readings:
     - Szeliski book, Chapter 7
-  logistics:
 
-- date: 3/23
+- date: 3/28
   title: >
     <strong>Corner detection: II</strong><br>
         - Local descriptors<br>
@@ -117,22 +113,7 @@
   readings:
       - Szeliski book, Chapter 7
 
-  logistics:
-
-- date: 3/28
-  title: Midterm review
-  readings:
-  logistics:
-
-- date: 3/30
-  title: Midterm exam (in class)
-
-
-
-- title: "Module 3: Image Understanding"
-
-
-- date: 4/4
+- date: 4/2
   title: >
     <strong>Blob detection</strong><br>
     - Invariance and equivariance<br>
@@ -142,9 +123,13 @@
     - Szeliski book, Chapter 7, 8
     - OpenCV <a href="https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html">SIFT detection demo</a>
 
-- date: 4/6
+
+- title: "Module 3: Image Understanding"
+
+
+
+- date: 4/4
   title: <strong>Feature matching and model fitting</strong><br>
-    - Szeliski book, Chapter 8
     - Feature descriptors<br>
     - Matching and ratio test<br>
     - Model fitting using RANSAC
@@ -153,17 +138,16 @@
     - Szeliski book, Chapter 8
     - OpenCV <a href="https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html">SIFT matching demo</a>
 
-- date: 4/11
+- date: 4/9
   title: <strong>Transformations and alignment</strong><br>
     - Image transformations<br>
     - Transformations from matching<br>
     - Image warping<br>
   readings:
     - Szeliski book, Chapter 8
-  logistics:
 
 
-- date: 4/13
+- date: 4/11
   title: <strong>Recognition by alignment</strong><br>
     - Instance matching<br>
     - Vocabulary trees<br>
@@ -175,7 +159,7 @@
     - <a href="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html">Shape context</a>
     - <a href="https://www.acberg.com/gb.html">Geometric blur</a>
 
-- date: 4/20
+- date: 4/16
   title: <strong>Introduction to recognition</strong><br>
     - What is recognition?<br>
     - Brief history of recognition<br>
@@ -184,7 +168,7 @@
     - Szeliski book, Chapter 6
 
 
-- date: 4/25
+- date: 4/18
   title: <strong>Representations for recognition</strong><br>
     - The machine learning framework<br>
     - Role of representations<br>
@@ -193,7 +177,7 @@
     - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Histogram of Oriented Gradients, Dalal and Triggs, CVPR 2005</a><br>
     - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Visual Words, Csurka et al., ECCV 2004</a>
 
-- date: 4/27
+- date: 4/23
   title: <strong>Machine learning</strong><br>
     - Learning framework<br>
     - Decision trees<br>
@@ -201,14 +185,14 @@
   readings:
     - Szeliski book, Chapter 5
 
-- date: 5/2
+- date: 4/25
   title: <strong>Machine learning</strong><br>
     - Perceptrons<br>
     - Linear classifiers and optimization<br>
   readings:
     - Szeliski book, Chapter 5
 
-- date: 5/4
+- date: 5/2
   title: <strong>Object detection</strong><br>
     - Detection task<br>
     - Datasets and evaluation metrics<br>
@@ -216,14 +200,14 @@
   readings:
     - Szeliski book, Chapter 6
 
-- date: 5/9
+- date: 5/7
   title: <strong>Object detection; Deep learnining</strong><br>
     - Region-based detector<br>
     - Properties of two layer networks<br>
   readings:
     - Szeliski book, Chapter 6
 
-- date: 5/11
+- date: 5/9
   title: <strong>Deep learning</strong><br>
       - Learning via backpropagation <br>
       - LeNet and AlexNet<br>
@@ -231,8 +215,5 @@
   readings:
     - Szeliski book, Chapter 5
 
-- date: 5/16
-  title: Final review
-
-- date: 5/22
-  title: Final exam (1:00 PM - 3:00 PM, LGRC A301)
+- date: 
+  title: Final exam (TBD)
