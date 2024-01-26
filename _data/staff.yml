@@ -2,12 +2,18 @@ Instructors:
     - name: Subhransu Maji
       email: smaji@cs.umass.edu
       url: https://www.cs.umass.edu/~smaji
-      office-hours: Mon/Wed 2-3pm, CS 274
+      office-hours: Wed 2-3pm, CS 274
       image: staff/subhransu.jpg
 
 TA:
     - name: Aaron Sun
       email: aaronsun@umass.edu
       url:
-      office-hours: Mon/Wed 5-6pm, CS 207
+      office-hours: TBD
       image: staff/aaron.png
+
+    - name: Peter Tran
+      email: mdtran@umass.edu
+      url:
+      office-hours: TBD
+      image: staff/peter.png

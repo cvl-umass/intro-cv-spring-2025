@@ -46,8 +46,7 @@ We will cover basics of image processing and visualization in python, but you mi
 * Deep learning: [Pytorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/)
 
 Writing is a key component of all projects. [Here are some tips on
-how to write
-well](https://docs.google.com/document/d/1cWY-L6Qu-wHKst69aDuJbi7Vtw472ZaSNHkrS_WyzqE/edit?usp=sharing).
+how to write your homework reports](https://docs.google.com/document/d/1cWY-L6Qu-wHKst69aDuJbi7Vtw472ZaSNHkrS_WyzqE/edit?usp=sharing). This was designed for 670 but a lot of this applies to 370 reports as well.
 
 ***
 
