@@ -9,24 +9,24 @@
 - title: "Module 1: Image Formation"
 
 - date: 2/6
-  title:
-    <strong>Light and color (1)</strong> <br/>
-    - Spectral basis of light <br/>
-    - Color perception in the human eye
+  title: >
+       <strong>Light and color: I</strong><br>
+       - Spectral basis of light <br/>
+       - Color perception in the human eye
   readings:
   - Szeliski book, Chapter 2
   - <a href="https://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see">Beau Lotto's TED talk</a>
 
 - date: 2/8
   title: >
-    <strong>Light and color (2)</strong> <br/>
-    - Tristimulus theory and color spaces <br/>
-    - Color phenomenon
+       <strong>Light and color: II</strong><br>
+       - Tristimulus theory and color spaces <br/>
+       - Color phenomenon
   readings:
 
 - date: 2/13
   title: >
-    <strong>Image formation (1)</strong><br/>
+    <strong>Image formation: I</strong><br/>
     - Pinhole camera model<br/>
     - Qualitative properties
   readings:
@@ -34,7 +34,7 @@
 
 - date: 2/15
   title: >
-    <strong>Image formation (2)</strong><br/>
+    <strong>Image formation: II</strong><br/>
     - Cameras with lenses <br/>
     - Lens phenomenon
   readings:
