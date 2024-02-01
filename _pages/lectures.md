@@ -3,6 +3,8 @@ layout: schedule
 permalink: /lectures/
 title: Lecture schedule
 ---
+Lecture slides will appear here: <a href="https://umass-my.sharepoint.com/:f:/r/personal/smaji_umass_edu/Documents/Teaching/intro-cv-spring24?csf=1&web=1&e=0BgTUR">intro-cv-spring24</a><br>
+Link to the lecture recordings will be posted on piazza.
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
