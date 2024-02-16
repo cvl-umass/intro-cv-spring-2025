@@ -14,6 +14,7 @@
   readings:
   - Szeliski book, Chapter 2
   - <a href="https://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see">Beau Lotto's TED talk</a>
+  - <strong>Homework 1</strong> released (due 2/22)
 
 - date: 2/8
   title: >
@@ -23,6 +24,10 @@
   readings:
 
 - date: 2/13
+  title: <strong>Invited speaker (CICS seminar)</strong>
+  readings:
+
+- date: 2/15
   title: >
     <strong>Image formation: I</strong><br/>
     - Pinhole camera model<br/>
@@ -30,7 +35,18 @@
   readings:
   - Szeliski book, Chapter 2
 
-- date: 2/15
+- date: 2/20
+  title: <strong>Python tutorial (TAs)</strong>
+  readings:
+    - <a href="https://colab.research.google.com/drive/1_6TNsXj6c0yaye3lVKBaxj92KOvOB7A_?usp=sharing">Python basics and numpy</a>
+    - <a href="https://colab.research.google.com/drive/1sK4TSepH-qUNMuwZOl9rI0P5YuSlHYSO?usp=sharing">Matplotlib and skimage</a>
+
+- date: 2/22
+  title: No class (Moday schedule). <strong>Homework 2</strong> released (due 3/7)
+  readings:
+    - <strong>Homework 2</strong> released (due 3/7)
+
+- date: 2/27
   title: >
     <strong>Image formation: II</strong><br/>
     - Cameras with lenses <br/>
@@ -38,19 +54,9 @@
   readings:
     - Szeliski book, Chapter 2
 
-
-- date: 2/20
-  title: <strong>Python tutorial</strong>
-  readings:
-    - <a href="https://colab.research.google.com/drive/1_6TNsXj6c0yaye3lVKBaxj92KOvOB7A_?usp=sharing">Python basics and numpy</a>
-    - <a href="https://colab.research.google.com/drive/1sK4TSepH-qUNMuwZOl9rI0P5YuSlHYSO?usp=sharing">Matplotlib and skimage</a>
-
-
 - title: "Module 2: Image Processing"
 
-
-
-- date: 2/27
+- date: 2/29
   title: <strong>Digital image representation</strong><br/>
     - Analog and digital color sensing <br/>
     - Alignment and demosacing<br/>
@@ -61,7 +67,7 @@
     - <a href="https://www.loc.gov/pictures/collection/prok/">Prokudin-Gorskii Collection</a> at the Library of Congress
     - <a href="https://en.wikipedia.org/wiki/Color_filter_array">Color filter arrays</a>
 
-- date: 2/29
+- date: 3/5
   title: >
        <strong>Image processing: I</strong><br>
        - Improving brightness and contrast<br>
@@ -70,7 +76,7 @@
   readings:
   - Szeliski book, Chapter 3
 
-- date: 3/5
+- date: 3/7
   title: >
        <strong>Image processing: II </strong><br>
        - Sharpening<br>
@@ -78,14 +84,13 @@
   readings:
     - Szeliski book, Chapter 3
 
-- date: 3/7
-  title: Midterm review
-
 - date: 3/12
-  title: Midterm exam in class
+  title: <strong>Midterm exam in class</strong>
 
 - date: 3/14
   title: <strong>Invited speaker (TBD)</strong>
+  readings:
+    - <strong>Homework 3</strong> released (due 4/4)
 
 - date: 3/19
   title: No class (Spring Break)
@@ -137,6 +142,7 @@
   readings:
     - Szeliski book, Chapter 8
     - OpenCV <a href="https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html">SIFT matching demo</a>
+    - <strong>Homework 4</strong> released (due 4/18)
 
 - date: 4/9
   title: <strong>Transformations and alignment</strong><br>
@@ -145,6 +151,7 @@
     - Image warping<br>
   readings:
     - Szeliski book, Chapter 8
+
 
 
 - date: 4/11
@@ -176,6 +183,7 @@
   readings:
     - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Histogram of Oriented Gradients, Dalal and Triggs, CVPR 2005</a><br>
     - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Visual Words, Csurka et al., ECCV 2004</a>
+    - <strong>Homework 5</strong> released (due 5/2)
 
 - date: 4/23
   title: <strong>Machine learning</strong><br>
@@ -215,5 +223,5 @@
   readings:
     - Szeliski book, Chapter 5
 
-- date:
-  title: Final exam (TBD)
+- date: 5/15
+  title: <strong>Final exam (LGRC A301, 1pm-3pm)</strong>
