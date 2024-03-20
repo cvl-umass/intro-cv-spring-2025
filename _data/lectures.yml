@@ -24,7 +24,8 @@
   readings:
 
 - date: 2/13
-  title: <strong>Invited speaker (CICS seminar)</strong>
+  title: >
+        <strong>Guest speaker: Hadar Elor</strong>, "Leveraging Multimodal Foundation Models for Exploring the 3D World"
   readings:
 
 - date: 2/15
@@ -88,7 +89,9 @@
   title: <strong>Midterm exam in class</strong>
 
 - date: 3/14
-  title: <strong>Invited speaker (TBD)</strong>
+  title: >
+    <strong>Guest speaker: Cheng Phoo</strong>, Toward Perception Models Beyond Internet Applications<br>
+    <i>Note: The talk was rescheduled to Friday, 3/15</i>
   readings:
     - <strong>Homework 3</strong> released (due 4/4)
 
