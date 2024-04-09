@@ -55,7 +55,7 @@
   readings:
     - Szeliski book, Chapter 2
 
-- title: "Module 2: Image Processing"
+- title: "Module 2: Image Processing and Alignment"
 
 - date: 2/29
   title: <strong>Digital image representation</strong><br/>
@@ -103,7 +103,7 @@
 
 - date: 3/26
   title: >
-    <strong>Corner detection: I</strong><br>
+    <strong>Corners</strong><br>
     - Local descriptors<br>
     - Simple corner detector<br>
     - Harris corner detector<br>
@@ -113,34 +113,36 @@
 
 - date: 3/28
   title: >
-    <strong>Corner detection: II</strong><br>
+    <strong>Corners, Blobs </strong><br>
         - Local descriptors<br>
         - Simple corner detector<br>
         - Harris corner detector<br>
         - The second moment matrix<br>
+        - Invariance and equivariance<br>
+        - Scale equivariant features<br>
   readings:
       - Szeliski book, Chapter 7
 
 - date: 4/2
   title: >
-    <strong>Blob detection</strong><br>
-    - Invariance and equivariance<br>
-    - Scale equivariant features<br>
+    <strong>Blobs, Feature matching, Model fitting</strong><br>
     - Image pyramid and scale-space
+    - Feature descriptors<br>
+    - Matching and ratio test<br>
   readings:
     - Szeliski book, Chapter 7, 8
     - OpenCV <a href="https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html">SIFT detection demo</a>
 
 
-- title: "Module 3: Image Understanding"
 
 
 
 - date: 4/4
-  title: <strong>Feature matching and model fitting</strong><br>
-    - Feature descriptors<br>
-    - Matching and ratio test<br>
+  title: <strong>Model fitting, Transformations, Alignment</strong><br>
     - Model fitting using RANSAC
+    - Image transformations<br>
+    - Transformations from matching<br>
+    - Image warping<br>
 
   readings:
     - Szeliski book, Chapter 8
@@ -148,14 +150,18 @@
     - <strong>Homework 4</strong> released (due 4/18)
 
 - date: 4/9
-  title: <strong>Transformations and alignment</strong><br>
-    - Image transformations<br>
-    - Transformations from matching<br>
-    - Image warping<br>
+  title: >
+    <strong>Optical flow</strong><br>
+    - Motion field<br>
+    - Lucas Kanade flow<br>
+    - Depth from disparity<br>
+    - Structured light and the Kinect sensor
+
   readings:
     - Szeliski book, Chapter 8
 
 
+- title: "Module 3: Image Understanding"
 
 - date: 4/11
   title: <strong>Recognition by alignment</strong><br>
@@ -179,42 +185,35 @@
 
 
 - date: 4/18
-  title: <strong>Representations for recognition</strong><br>
+  title: <strong>Representations/strong><br>
     - The machine learning framework<br>
     - Role of representations<br>
-    - A tale of two representations (HOG and BOVW)<br>
+    - A tale of two classical representations (HOG and BoVW)<br>
   readings:
     - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Histogram of Oriented Gradients, Dalal and Triggs, CVPR 2005</a><br>
     - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Visual Words, Csurka et al., ECCV 2004</a>
     - <strong>Homework 5</strong> released (due 5/2)
 
 - date: 4/23
-  title: <strong>Machine learning</strong><br>
-    - Learning framework<br>
+  title: <strong>Classical machine learning</strong><br>
     - Decision trees<br>
     - Nearest neighbor classifiers<br>
+    - Linear classifiers<br>
   readings:
     - Szeliski book, Chapter 5
 
 - date: 4/25
-  title: <strong>Machine learning</strong><br>
-    - Perceptrons<br>
-    - Linear classifiers and optimization<br>
+  title: <strong>Deep learning</strong><br>
   readings:
     - Szeliski book, Chapter 5
 
 - date: 5/2
-  title: <strong>Object detection</strong><br>
-    - Detection task<br>
-    - Datasets and evaluation metrics<br>
-    - Sliding window detector<br>
+  title: <strong>Deep learning</strong><br>
   readings:
     - Szeliski book, Chapter 6
 
 - date: 5/7
-  title: <strong>Object detection; Deep learnining</strong><br>
-    - Region-based detector<br>
-    - Properties of two layer networks<br>
+  title: <strong>Object detection</strong><br>
   readings:
     - Szeliski book, Chapter 6
 
