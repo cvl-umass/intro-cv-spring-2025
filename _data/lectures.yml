@@ -113,10 +113,7 @@
 
 - date: 3/28
   title: >
-    <strong>Corners, Blobs </strong><br>
-        - Local descriptors<br>
-        - Simple corner detector<br>
-        - Harris corner detector<br>
+    <strong>Corners, blobs </strong><br>
         - The second moment matrix<br>
         - Invariance and equivariance<br>
         - Scale equivariant features<br>
@@ -125,8 +122,8 @@
 
 - date: 4/2
   title: >
-    <strong>Blobs, Feature matching, Model fitting</strong><br>
-    - Image pyramid and scale-space
+    <strong>Blobs, feature matching, model fitting</strong><br>
+    - Image pyramid and scale-space<br>
     - Feature descriptors<br>
     - Matching and ratio test<br>
   readings:
@@ -138,7 +135,7 @@
 
 
 - date: 4/4
-  title: <strong>Model fitting, Transformations, Alignment</strong><br>
+  title: <strong>Model fitting, transformations, alignment</strong><br>
     - Model fitting using RANSAC
     - Image transformations<br>
     - Transformations from matching<br>
@@ -153,7 +150,7 @@
   title: >
     <strong>Optical flow</strong><br>
     - Motion field<br>
-    - Lucas Kanade flow<br>
+    - Lucas-Kanade optical flow<br>
     - Depth from disparity<br>
     - Structured light and the Kinect sensor
 
@@ -185,7 +182,7 @@
 
 
 - date: 4/18
-  title: <strong>Representations/strong><br>
+  title: <strong>Representations</strong><br>
     - The machine learning framework<br>
     - Role of representations<br>
     - A tale of two classical representations (HOG and BoVW)<br>
