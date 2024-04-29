@@ -185,7 +185,7 @@
   title: <strong>Representations</strong><br>
     - The machine learning framework<br>
     - Role of representations<br>
-    - A tale of two classical representations (HOG and BoVW)<br>
+    - Two classical representations (HOG and BoVW)<br>
   readings:
     - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Histogram of Oriented Gradients, Dalal and Triggs, CVPR 2005</a><br>
     - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Visual Words, Csurka et al., ECCV 2004</a>
@@ -195,24 +195,39 @@
   title: <strong>Classical machine learning</strong><br>
     - Decision trees<br>
     - Nearest neighbor classifiers<br>
-    - Linear classifiers<br>
   readings:
     - Szeliski book, Chapter 5
 
 - date: 4/25
-  title: <strong>Deep learning</strong><br>
+  title: >
+    <strong>Guest speaker: Huaizu Jiang</strong>, Towards High-fidelity Human Motion Generation<br>
   readings:
-    - Szeliski book, Chapter 5
+
+
+- date: 4/30
+  title: <strong>Classical machine learning, Object detection</strong><br>
+    - Linear classifiers<br>
+    - Sliding window detectors
+  readings:
+    - Szeliski book, Chapter 5, 6
+    - <a href="https://ieeexplore.ieee.org/document/990517">Viola & Jones, Face detector, CVPR 2001</a><br>
+    - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Histogram of Oriented Gradients, Dalal and Triggs, CVPR 2005</a><br>
+
 
 - date: 5/2
-  title: <strong>Deep learning</strong><br>
+  title: <strong>Object detection</strong><br>
+    - Region-based detectors
   readings:
     - Szeliski book, Chapter 6
+    - <a href="https://link.springer.com/article/10.1007/s11263-013-0620-5">Selective search, Uijlings et al., IJCV'13</a>
 
 - date: 5/7
-  title: <strong>Object detection</strong><br>
+  title: <strong>Deep learning</strong><br>
+      - Learning via backpropagation <br>
+      - LeNet and AlexNet<br>
+      - Visualizing filters in AlexNet<br>
   readings:
-    - Szeliski book, Chapter 6
+    - Szeliski book, Chapter 5
 
 - date: 5/9
   title: <strong>Deep learning</strong><br>
