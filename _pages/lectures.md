@@ -1,10 +1,9 @@
 ---
 layout: schedule
 permalink: /lectures/
-title: Lecture schedule
+title: Class schedule
 ---
-Lecture slides will appear here: <a href="https://umass-my.sharepoint.com/:f:/r/personal/smaji_umass_edu/Documents/Teaching/intro-cv-spring24?csf=1&web=1&e=0BgTUR">intro-cv-spring24</a><br>
-Link to the lecture recordings will be posted on piazza.
+
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
@@ -22,18 +21,13 @@ Link to the lecture recordings will be posted on piazza.
     {% assign event_type = "warning" %}
 {% endif %}
 {% assign prev_date = lecture_date %}
-
 <tr class="{{ event_type }}">
     <th scope="row">{{ lecture.date }}</th>
-    {% if lecture.title contains 'No class' or lecture.title contains 'review' or lecture.title contains 'exam' or forloop.last %}
+    {% if lecture.title contains 'No class' or lecture.title contains 'review' or lecture.title contains 'exam'%}
     {% assign skip_classes = skip_classes | plus: 1 %}
     <td colspan="4" align="center">{{ lecture.title }}</td>
     {% else %}
-    <td>
-        #{{ forloop.index | minus: current_module | minus: skip_classes }}
-        {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
-        {{ lecture.title }}
-    </td>
+    <td> {{lecture.title}} </td>
     <td>
         {% if lecture.readings %}
         <ul>

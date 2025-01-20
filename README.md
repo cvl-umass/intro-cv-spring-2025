@@ -1,1 +1,1 @@
-# Intro to Computer Vision -- Spring 2023 @ UMass Amherst
+# Intro to Computer Vision -- Spring 2025 @ UMass Amherst

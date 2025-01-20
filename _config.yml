@@ -6,12 +6,12 @@ name: COMPSCI 370
 title: Computer Vision
 email: smaji@cs.umass.edu
 description: >
-  COMPSCI 370 - Intro to Computer Vision - University of Massachusetts, Amherst - Spring 24
+  COMPSCI 370 - Intro to Computer Vision - University of Massachusetts, Amherst - Spring 25
 footer_text: >
   Based on the <a href=https://sailinglab.github.io/pgm-spring-2019/>PGM course</a> at CMU.
 
 url: https://cvl-umass.github.io/ # the base hostname & protocol for your site
-baseurl: /intro-cv-spring-2024/ # the subpath of your site, e.g. /blog/
+baseurl: /intro-cv-spring-2025/ # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration

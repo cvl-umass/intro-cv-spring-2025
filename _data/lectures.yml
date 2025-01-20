@@ -1,12 +1,13 @@
-- date: 2/1
+- date: 1/30
   title: <strong>Introduction and logistics</strong>
   readings:
-   - Szeliski book, Chapter 1
-   - <a href="https://www.cs.princeton.edu/courses/archive/spring08/cos598B/Readings/ThorpeFizeMarlot1996.pdf">The speed of processing in the human visual system</a>, Thorpe et al., 1996
+   - Slides, Notes
+   - Szeliski book, Chapter 1 (optional)
+   - <a href="https://www.cs.princeton.edu/courses/archive/spring08/cos598B/Readings/ThorpeFizeMarlot1996.pdf">The speed of processing in the human visual system</a>, Thorpe et al., 1996 (optional)
 
 - title: "Module 1: Image Formation"
 
-- date: 2/6
+- date: 2/4
   title: >
        <strong>Light and color: I</strong><br>
        - Spectral basis of light <br/>
@@ -16,19 +17,14 @@
   - <a href="https://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see">Beau Lotto's TED talk</a>
   - <strong>Homework 1</strong> released (due 2/22)
 
-- date: 2/8
+- date: 2/6
   title: >
        <strong>Light and color: II</strong><br>
        - Tristimulus theory and color spaces <br/>
        - Color phenomenon
   readings:
 
-- date: 2/13
-  title: >
-        <strong>Guest speaker: Hadar Elor</strong>, "Leveraging Multimodal Foundation Models for Exploring the 3D World"
-  readings:
-
-- date: 2/15
+- date: 2/11
   title: >
     <strong>Image formation: I</strong><br/>
     - Pinhole camera model<br/>
@@ -36,107 +32,92 @@
   readings:
   - Szeliski book, Chapter 2
 
-- date: 2/20
-  title: <strong>Python tutorial (TAs)</strong>
-  readings:
-    - <a href="https://colab.research.google.com/drive/1_6TNsXj6c0yaye3lVKBaxj92KOvOB7A_?usp=sharing">Python basics and numpy</a>
-    - <a href="https://colab.research.google.com/drive/1sK4TSepH-qUNMuwZOl9rI0P5YuSlHYSO?usp=sharing">Matplotlib and skimage</a>
-
-- date: 2/22
-  title: No class (Moday schedule). <strong>Homework 2</strong> released (due 3/7)
-  readings:
-    - <strong>Homework 2</strong> released (due 3/7)
-
-- date: 2/27
+- date: 2/13
   title: >
-    <strong>Image formation: II</strong><br/>
-    - Cameras with lenses <br/>
+    <strong>Image formation: II</strong><br>
+    - Cameras with lenses <br>
     - Lens phenomenon
   readings:
     - Szeliski book, Chapter 2
 
-- title: "Module 2: Image Processing and Alignment"
+- date: 2/18
+  title: >
+    <strong>Image formation: III</strong><br>
+    - Analog and digital color sensing<br>
+    - Alignment and demosacing<br>
+    - Color displays and colormaps
+  readings:
+    - Szeliski book, Chapter 2
 
-- date: 2/29
-  title: <strong>Digital image representation</strong><br/>
-    - Analog and digital color sensing <br/>
-    - Alignment and demosacing<br/>
-    - Spatial and bightness quantization <br/>
-    - Color displays and colormaps <br/>
+- date: 2/25
+  title: <strong>Python tutorial</strong>
+  readings:
+    - <a href="https://colab.research.google.com/drive/1_6TNsXj6c0yaye3lVKBaxj92KOvOB7A_?usp=sharing">Python basics and numpy</a>
+    - <a href="https://colab.research.google.com/drive/1sK4TSepH-qUNMuwZOl9rI0P5YuSlHYSO?usp=sharing">Matplotlib and skimage</a>
+
+- title: "Module 2: Image Processing"
+
+- date: 2/27
+  title: >
+    <strong>Image processing: I</strong><br>
+    - Spatial and bightness quantization<br>
+    - Improving brightness and contrast<br>
+    - The convolution operation<br>
+    - Denoising<br>
   readings:
     - Szeliski book, Chapter 2
     - <a href="https://www.loc.gov/pictures/collection/prok/">Prokudin-Gorskii Collection</a> at the Library of Congress
     - <a href="https://en.wikipedia.org/wiki/Color_filter_array">Color filter arrays</a>
 
-- date: 3/5
-  title: >
-       <strong>Image processing: I</strong><br>
-       - Improving brightness and contrast<br>
-       - Filtering and convolution<br>
-       - Smoothing<br>
-  readings:
-  - Szeliski book, Chapter 3
-
-- date: 3/7
+- date: 3/4
   title: >
        <strong>Image processing: II </strong><br>
        - Sharpening<br>
+       - Hybrid Images <br>
        - Edge detection<br>
   readings:
     - Szeliski book, Chapter 3
 
-- date: 3/12
-  title: <strong>Midterm exam in class</strong>
-
-- date: 3/14
+- date: 3/6
   title: >
-    <strong>Guest speaker: Cheng Phoo</strong>, Toward Perception Models Beyond Internet Applications<br>
-    <i>Note: The talk was rescheduled to Friday, 3/15</i>
-  readings:
-    - <strong>Homework 3</strong> released (due 4/4)
-
-- date: 3/19
-  title: No class (Spring Break)
-
-- date: 3/21
-  title: No class (Spring Break)
-
-- date: 3/26
-  title: >
-    <strong>Corners</strong><br>
-    - Local descriptors<br>
-    - Simple corner detector<br>
+    <strong>Corner detection</strong><br>
+    - Role of local features<br>
     - Harris corner detector<br>
-    - The second moment matrix<br>
   readings:
     - Szeliski book, Chapter 7
 
-- date: 3/28
+- date: 3/11
   title: >
-    <strong>Corners, blobs </strong><br>
-        - The second moment matrix<br>
+    <strong>TBD</strong><br>
+  readings:
+
+- date: 3/13
+  title: >
+    <strong>Midterm in class</strong><br>
+  readings:
+
+- date: 3/25
+  title: >
+    <strong>Blob detection </strong><br>
         - Invariance and equivariance<br>
         - Scale equivariant features<br>
   readings:
       - Szeliski book, Chapter 7
 
-- date: 4/2
+- date: 3/27
   title: >
-    <strong>Blobs, feature matching, model fitting</strong><br>
-    - Image pyramid and scale-space<br>
+    <strong>Matching and alignment: I</strong><br>
     - Feature descriptors<br>
     - Matching and ratio test<br>
+    - Model fitting using RANSAC
   readings:
     - Szeliski book, Chapter 7, 8
     - OpenCV <a href="https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html">SIFT detection demo</a>
 
 
-
-
-
-- date: 4/4
-  title: <strong>Model fitting, transformations, alignment</strong><br>
-    - Model fitting using RANSAC
+- date: 4/1
+  title: >
+    <strong>Matching and alignment: II</strong><br>
     - Image transformations<br>
     - Transformations from matching<br>
     - Image warping<br>
@@ -146,7 +127,7 @@
     - OpenCV <a href="https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html">SIFT matching demo</a>
     - <strong>Homework 4</strong> released (due 4/18)
 
-- date: 4/9
+- date: 4/3
   title: >
     <strong>Optical flow</strong><br>
     - Motion field<br>
@@ -160,7 +141,7 @@
 
 - title: "Module 3: Image Understanding"
 
-- date: 4/11
+- date: 4/8
   title: <strong>Recognition by alignment</strong><br>
     - Instance matching<br>
     - Vocabulary trees<br>
@@ -172,7 +153,7 @@
     - <a href="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html">Shape context</a>
     - <a href="https://www.acberg.com/gb.html">Geometric blur</a>
 
-- date: 4/16
+- date: 4/10
   title: <strong>Introduction to recognition</strong><br>
     - What is recognition?<br>
     - Brief history of recognition<br>
@@ -181,7 +162,7 @@
     - Szeliski book, Chapter 6
 
 
-- date: 4/18
+- date: 4/15
   title: <strong>Representations</strong><br>
     - The machine learning framework<br>
     - Role of representations<br>
@@ -191,59 +172,53 @@
     - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Words, Csurka et al., ECCV 2004</a>
     - <strong>Homework 5</strong> released (due 5/2)
 
-- date: 4/23
-  title: <strong>Classical machine learning</strong><br>
-    - Decision trees<br>
-    - Nearest neighbor classifiers<br>
-  readings:
-    - Szeliski book, Chapter 5
-
-- date: 4/25
+- date: 4/17
   title: >
-    <strong>Guest speaker: Huaizu Jiang</strong>, Towards High-fidelity Human Motion Generation<br>
-  readings:
+    <strong>Classical machine learning</strong><br>
+    - Nearest neighbor classifiers<br>
+    - Linear classifiers
 
 
-- date: 4/30
-  title: <strong>Classical machine learning</strong><br>
-    - Perceptrons<br>
-    - Learning as optimization<br>
-    - Linear classifiers<br>
-  readings:
-    - Szeliski book, Chapter 5
+- date: 4/22
+  title: >
+    <strong>Classical machine learning</strong><br>
+    - Loss functions<br>
+    - Regularization<br>
+    - Optimization
 
-
-- date: 5/2
-  title: <strong>Object detection</strong><br>
-    - Sliding window detectors<br>
-    - Region-based detectors<br>
-    - Datasets and benchmarks<br>
-  readings:
-    - Szeliski book, Chapter 6
-    - <a href="https://ieeexplore.ieee.org/document/990517">Face detector, Viola & Jones, CVPR 2001</a><br>
-    - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Pedestrian detector, Dalal & Triggs, CVPR 2005</a><br>
-    - <a href="https://link.springer.com/article/10.1007/s11263-013-0620-5">Selective search, Uijlings et al., IJCV'13</a>
-    - <a href="https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html">R-CNN, Girshick et al., CVPR 2014</a>
-
-- date: 5/7
-  title: <strong>Object detection</strong><br>
-    - Sliding window detectors<br>
-    - Region-based detectors<br>
-    - Datasets and benchmarks<br>
-  readings:
-    - Szeliski book, Chapter 6
-    - <a href="https://ieeexplore.ieee.org/document/990517">Face detector, Viola & Jones, CVPR 2001</a><br>
-    - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Pedestrian detector, Dalal & Triggs, CVPR 2005</a><br>
-    - <a href="https://link.springer.com/article/10.1007/s11263-013-0620-5">Selective search, Uijlings et al., IJCV'13</a>
-    - <a href="https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html">R-CNN, Girshick et al., CVPR 2014</a>
-    
-- date: 5/9
+- date: 4/24
   title: <strong>Deep learning</strong><br>
+      - Multi-layer perceptrons<br>
+      - Convolutional networks<br>
       - Learning via backpropagation <br>
       - LeNet and AlexNet<br>
       - Visualizing filters in AlexNet<br>
-  readings:
-    - Szeliski book, Chapter 5
 
-- date: 5/15
-  title: <strong>Final exam (LGRC A301, 1pm-3pm)</strong>
+- date: 4/29
+  title: <strong>Object detection</strong><br>
+    - Sliding window detectors<br>
+    - Region-based detectors<br>
+    - Datasets and benchmarks<br>
+  readings:
+    - Szeliski book, Chapter 6
+    - <a href="https://ieeexplore.ieee.org/document/990517">Face detector, Viola & Jones, CVPR 2001</a><br>
+    - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Pedestrian detector, Dalal & Triggs, CVPR 2005</a><br>
+    - <a href="https://link.springer.com/article/10.1007/s11263-013-0620-5">Selective search, Uijlings et al., IJCV'13</a>
+    - <a href="https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html">R-CNN, Girshick et al., CVPR 2014</a>
+
+- date: 5/1
+  title: <strong>Object detection</strong><br>
+    - Sliding window detectors<br>
+    - Region-based detectors<br>
+    - Datasets and benchmarks<br>
+  readings:
+    - Szeliski book, Chapter 6
+    - <a href="https://ieeexplore.ieee.org/document/990517">Face detector, Viola & Jones, CVPR 2001</a><br>
+    - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Pedestrian detector, Dalal & Triggs, CVPR 2005</a><br>
+    - <a href="https://link.springer.com/article/10.1007/s11263-013-0620-5">Selective search, Uijlings et al., IJCV'13</a>
+    - <a href="https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html">R-CNN, Girshick et al., CVPR 2014</a>
+
+- date: 5/6
+  title: >
+    <strong>TBD</strong><br>
+  readings:
