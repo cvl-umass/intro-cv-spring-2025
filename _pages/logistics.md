@@ -52,10 +52,10 @@ how to write your homework reports](https://docs.google.com/document/d/1cWY-L6Qu
 
 The grading breakdown for this class is as follows:
 
-* **55%** Homework (5 in total)
+* **45%** Homework (5 in total)
   * The weights for each homework will be proportional to the points for the homework. For example, a homework worth 80 points will be double the weight of another homework that is worth 40 points.
-* **15%** Midterm exam
-* **25%** Final exam
+* **20%** Midterm exam
+* **30%** Final exam
 * **5%** In-class participation.
   * There will be 15–20 low-stakes quizzes throughout the semester during class. The lowest 25% of these quiz scores will be dropped, and participation credit will be based on 50% participation points and 50% correctness. We will not offer makeup exams for quizzes.
 
