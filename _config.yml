@@ -2,22 +2,22 @@
 # Site settings
 # -----------------------------------------------------------------------------
 author: Subhransu Maji
-name: COMPSCI 670
+name: COMPSCI 370
 title: Computer Vision
 email: smaji@cs.umass.edu
 description: >
-  COMPSCI 670 - Computer Vision - University of Massachusetts, Amherst - Fall 2022
+  COMPSCI 370 - Intro to Computer Vision - University of Massachusetts, Amherst - Spring 25
 footer_text: >
-  Based on the <a href=https://sailinglab.github.io/pgm-spring-2019/>PGM course</a> at CMU, powered by <a href="http://jekyllrb.com/" target="_blank">jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. 
+  Based on the <a href=https://sailinglab.github.io/pgm-spring-2019/>PGM course</a> at CMU.
 
 url: https://cvl-umass.github.io/ # the base hostname & protocol for your site
-baseurl: /cv-fall-2022/ # the subpath of your site, e.g. /blog/
+baseurl: /intro-cv-spring-2025/ # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: cvl-umass
-google_analytics: 
+google_analytics:
 youtube_channel:
 rss:  # notes rss
 

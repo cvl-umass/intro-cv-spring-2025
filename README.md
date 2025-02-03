@@ -1,1 +1,1 @@
-# Computer Vision Course -- Fall 2022 @ UMass Amherst
+# Intro to Computer Vision -- Spring 2025 @ UMass Amherst

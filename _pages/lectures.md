@@ -1,8 +1,9 @@
 ---
 layout: schedule
 permalink: /lectures/
-title: Schedule
+title: Class schedule
 ---
+
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
@@ -20,20 +21,13 @@ title: Schedule
     {% assign event_type = "warning" %}
 {% endif %}
 {% assign prev_date = lecture_date %}
-
 <tr class="{{ event_type }}">
     <th scope="row">{{ lecture.date }}</th>
-    {% if lecture.title contains 'No class' or forloop.last %}
+    {% if lecture.title contains 'No class' or lecture.title contains 'review' or lecture.title contains 'exam'%}
     {% assign skip_classes = skip_classes | plus: 1 %}
     <td colspan="4" align="center">{{ lecture.title }}</td>
     {% else %}
-    <td>
-        Lecture #{{ forloop.index | minus: current_module | minus: skip_classes }}
-        {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
-        <br />
-        {{ lecture.title }}
-        <br />
-    </td>
+    <td> {{lecture.title}} </td>
     <td>
         {% if lecture.readings %}
         <ul>
