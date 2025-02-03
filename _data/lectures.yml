@@ -15,7 +15,7 @@
   readings:
   - Szeliski book, Chapter 2
   - <a href="https://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see">Beau Lotto's TED talk</a>
-  - <strong>Homework 1</strong> released (due 2/22)
+  - <strong>Homework 1</strong> released (due 2/18)
 
 - date: 2/6
   title: >
@@ -48,6 +48,7 @@
     - Color displays and colormaps
   readings:
     - Szeliski book, Chapter 2
+    - <strong>Homework 2</strong> released (due 3/4)
 
 - date: 2/25
   title: <strong>Python tutorial</strong>
@@ -77,6 +78,7 @@
        - Edge detection<br>
   readings:
     - Szeliski book, Chapter 3
+    - <strong>Homework 3</strong> released (due 3/25)
 
 - date: 3/6
   title: >
@@ -103,6 +105,7 @@
         - Scale equivariant features<br>
   readings:
       - Szeliski book, Chapter 7
+      - <strong>Homework 4</strong> released (due 4/10)
 
 - date: 3/27
   title: >
@@ -125,7 +128,6 @@
   readings:
     - Szeliski book, Chapter 8
     - OpenCV <a href="https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html">SIFT matching demo</a>
-    - <strong>Homework 4</strong> released (due 4/18)
 
 - date: 4/3
   title: >
@@ -160,6 +162,7 @@
     - Current trends<br>
   readings:
     - Szeliski book, Chapter 6
+    - <strong>Homework 5</strong> released (due 5/1)
 
 
 - date: 4/15
