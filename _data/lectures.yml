@@ -2,7 +2,7 @@
   title: <strong>Introduction and logistics</strong>
   readings:
    - Slides <a href="../assets/slides/lec01_intro.pdf">1UP</a>, <a href="../assets/slides/lec01_intro_4UP.pdf">4UP</a>
-   - Szeliski book, Chapter 1 (optional)
+   - Szeliski, Chapter 1 (optional)
    - <a href="https://www.cs.princeton.edu/courses/archive/spring08/cos598B/Readings/ThorpeFizeMarlot1996.pdf">The speed of processing in the human visual system</a>, Thorpe et al., 1996 (optional)
 
 - title: "Module 1: Image Formation"
@@ -13,7 +13,9 @@
        - Spectral basis of light <br/>
        - Color perception in the human eye
   readings:
-  - Szeliski book, Chapter 2
+  - Slides <a href="../assets/slides/lec02+03_light_and_color.pdf">1UP</a>, <a href="../assets/slides/lec02+03_light_and_color_4up.pdf">4UP</a>
+  - Notes <a href="../assets/notes/lightandcolor.pdf">lightandcolor.pdf</a>
+  - Forsyth and Ponce, Chapter 3 (optional)
   - <a href="https://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see">Beau Lotto's TED talk</a>
   - <strong>Homework 1</strong> released (due 2/18)
 
