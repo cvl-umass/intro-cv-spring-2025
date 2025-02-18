@@ -1,7 +1,7 @@
 - date: 1/30
   title: <strong>Introduction and logistics</strong>
   readings:
-   - Slides <a href="../assets/slides/lec01_intro.pdf">1UP</a>, <a href="../assets/slides/lec01_intro_4UP.pdf">4UP</a>
+   - <a href="../assets/slides/lec01_intro.pdf">Slides</a>
    - Szeliski, Chapter 1 (optional)
    - <a href="https://www.cs.princeton.edu/courses/archive/spring08/cos598B/Readings/ThorpeFizeMarlot1996.pdf">The speed of processing in the human visual system</a>, Thorpe et al., 1996 (optional)
 
@@ -13,8 +13,8 @@
        - Spectral basis of light <br/>
        - Color perception in the human eye
   readings:
-  - Slides <a href="../assets/slides/lec02+03_light_and_color.pdf">1UP</a>, <a href="../assets/slides/lec02+03_light_and_color_4up.pdf">4UP</a>
-  - Notes <a href="../assets/notes/lightandcolor.pdf">lightandcolor.pdf</a>
+  - <a href="../assets/slides/lec02+03_light_and_color.pdf">Slides</a> (next two lectures)
+  - Notes <a href="../assets/notes/lightandcolor.pdf">lightandcolor.pdf</a> (next two lectures)
   - Forsyth and Ponce, Chapter 3 (optional)
   - <a href="https://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see">Beau Lotto's TED talk</a>
   - <strong>Homework 1</strong> released (due 2/18)
@@ -24,25 +24,29 @@
 - date: 2/11
   title: >
        <strong>Light and color: II</strong><br>
-       - Tristimulus theory and color spaces <br/>
+       - Tristimulus theory and color spaces <br>
        - Color phenomenon
   readings:
 
 - date: 2/13
   title: >
     <strong>Image formation: I</strong><br/>
-    - Pinhole camera model<br/>
-    - Qualitative properties
+    - Pinhole camera model<br>
+    - Qualitative properties<br>
+    - Cameras with lens<br>
+    - Lens phenomenon
   readings:
-  - Slides <a href="../assets/slides/lec04+05_image_formation.pdf">1UP</a>, <a href="../assets/slides/lec04+05_image_formation_4up.pdf">4UP</a>
+  - <a href="../assets/slides/lec04+05_image_formation.pdf">Slides</a> (next two lectures)
   - Notes <a href="../assets/notes/imageformation.pdf">imageformation.pdf</a>
   - Szeliski book, Chapter 2
 
 - date: 2/18
   title: >
     <strong>Image formation: II</strong><br>
-    - Cameras with lenses <br>
-    - Lens phenomenon
+    - Lens flaws<br>
+    - Analog and digital color sensing<br>
+    - Alignment and demosacing<br>
+    - Color displays and colormaps
   readings:
     - Szeliski book, Chapter 2
     - <strong>Homework 2</strong> released (due 3/4)
@@ -57,7 +61,7 @@
     - Szeliski book, Chapter 2
 
 
-- date: 2/27
+- date: 2/25
   title: <strong>Python tutorial</strong>
   readings:
     - <a href="https://colab.research.google.com/drive/1_6TNsXj6c0yaye3lVKBaxj92KOvOB7A_?usp=sharing">Python basics and numpy</a>
