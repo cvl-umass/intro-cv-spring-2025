@@ -21,6 +21,8 @@
 
 - date: 2/6
   title: <strong>Class cancelled, snow day</strong>
+
+
 - date: 2/11
   title: >
        <strong>Light and color: II</strong><br>
@@ -37,29 +39,26 @@
     - Lens phenomenon
   readings:
   - <a href="../assets/slides/lec04+05_image_formation.pdf">Slides</a> (next two lectures)
-  - Notes <a href="../assets/notes/imageformation.pdf">imageformation.pdf</a>
+  - Notes <a href="../assets/notes/imageformation.pdf">imageformation.pdf</a> (next two lectures)
   - Szeliski book, Chapter 2
 
 - date: 2/18
   title: >
     <strong>Image formation: II</strong><br>
-    - Lens flaws<br>
+    - Lens flaws and modern lenses<br>
     - Analog and digital color sensing<br>
-    - Alignment and demosacing<br>
-    - Color displays and colormaps
+    - Alignment and demosacing
   readings:
-    - Szeliski book, Chapter 2
     - <strong>Homework 2</strong> released (due 3/4)
-
-- date: 2/25
-  title: >
-    <strong>Image capture</strong><br>
-    - Analog and digital color sensing<br>
-    - Alignment and demosacing<br>
-    - Color displays and colormaps
-  readings:
+    - <a href="https://www.loc.gov/pictures/collection/prok/">Prokudin-Gorskii Collection</a> at the Library of Congress
+    - <a href="https://en.wikipedia.org/wiki/Color_filter_array">Color filter arrays</a>
     - Szeliski book, Chapter 2
 
+
+- date: 2/20
+  title: <strong>No Class, Monday schedule</strong>
+
+- title: "Module 2: Image Processing"
 
 - date: 2/25
   title: <strong>Python tutorial</strong>
@@ -67,9 +66,8 @@
     - <a href="https://colab.research.google.com/drive/1_6TNsXj6c0yaye3lVKBaxj92KOvOB7A_?usp=sharing">Python basics and numpy</a>
     - <a href="https://colab.research.google.com/drive/1sK4TSepH-qUNMuwZOl9rI0P5YuSlHYSO?usp=sharing">Matplotlib and skimage</a>
 
-- title: "Module 2: Image Processing"
 
-- date: 3/4
+- date: 2/27
   title: >
     <strong>Image processing: I</strong><br>
     - Spatial and bightness quantization<br>
@@ -78,20 +76,18 @@
     - Denoising<br>
   readings:
     - Szeliski book, Chapter 2
-    - <a href="https://www.loc.gov/pictures/collection/prok/">Prokudin-Gorskii Collection</a> at the Library of Congress
-    - <a href="https://en.wikipedia.org/wiki/Color_filter_array">Color filter arrays</a>
 
-- date: 3/6
+- date: 3/4
   title: >
        <strong>Image processing: II </strong><br>
        - Sharpening<br>
        - Hybrid Images <br>
        - Edge detection<br>
   readings:
-    - Szeliski book, Chapter 3
     - <strong>Homework 3</strong> released (due 3/25)
+    - Szeliski book, Chapter 3
 
-- date: 3/13
+- date: 3/6
   title: >
     <strong>Corner detection</strong><br>
     - Role of local features<br>
@@ -99,9 +95,25 @@
   readings:
     - Szeliski book, Chapter 7
 
+- date: 3/11
+  title: >
+    <strong>TBD</strong><br>
+  readings:
+
+
 - date: 3/13
   title: >
     <strong>Midterm in class</strong><br>
+  readings:
+
+- date: 3/18
+  title: >
+    <strong>Spring break</strong><br>
+  readings:
+
+- date: 3/20
+  title: >
+    <strong>Spring break</strong><br>
   readings:
 
 - date: 3/25
