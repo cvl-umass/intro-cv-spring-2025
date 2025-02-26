@@ -75,6 +75,8 @@
     - The convolution operation<br>
     - Denoising<br>
   readings:
+    - <a href="../assets/slides/lec07+08_image_processing.pdf">Slides</a> (next two lectures)
+    - Notes <a href="../assets/notes/imageprocessing.pdf">imageprocessing.pdf</a> (next two lectures)
     - Szeliski book, Chapter 2
 
 - date: 3/4
