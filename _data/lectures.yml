@@ -91,17 +91,19 @@
 
 - date: 3/6
   title: >
-    <strong>Corner detection</strong><br>
+    <strong>Local features: I</strong><br>
     - Role of local features<br>
     - Harris corner detector<br>
   readings:
+    - <a href="../assets/slides/lec09+10_local_features.pdf">Slides</a> (next two lectures)
     - Szeliski book, Chapter 7
 
 - date: 3/11
   title: >
-    <strong>TBD</strong><br>
+    <strong>Local features: II</strong><br>
+    - Invariance and equivariance<br>
+    - Scale equivariant feature (blob) detector
   readings:
-
 
 - date: 3/13
   title: >
@@ -120,9 +122,7 @@
 
 - date: 3/25
   title: >
-    <strong>Blob detection </strong><br>
-        - Invariance and equivariance<br>
-        - Scale equivariant features<br>
+    <strong>TBD </strong><br>
   readings:
       - Szeliski book, Chapter 7
       - <strong>Homework 4</strong> released (due 4/10)
