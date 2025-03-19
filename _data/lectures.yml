@@ -96,13 +96,14 @@
     - Harris corner detector<br>
   readings:
     - <a href="../assets/slides/lec09+10_local_features.pdf">Slides</a> (next two lectures)
+    - Notes <a href="../assets/notes/localfeatures.pdf">localfeatures.pdf</a> (next three lectures)
     - Szeliski book, Chapter 7
 
 - date: 3/11
   title: >
     <strong>Local features: II</strong><br>
-    - Invariance and equivariance<br>
-    - Scale equivariant feature (blob) detector
+    - Harris corner detector<br>
+    - Invariance and equivariance
   readings:
 
 - date: 3/13
@@ -122,9 +123,15 @@
 
 - date: 3/25
   title: >
-    <strong>TBD </strong><br>
+    <strong>Local features: III </strong><br>
+    - Invariance and equivariance<br>
+    - Blob detector<br>
+    - Eliminating rotational ambiguity<br>
+    - The SIFT descriptor
   readings:
+      - <a href="../assets/slides/lec11_blob_detection.pdf">Slides</a>
       - Szeliski book, Chapter 7
+      - OpenCV <a href="https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html">SIFT detection demo</a>
       - <strong>Homework 4</strong> released (due 4/10)
 
 - date: 3/27
@@ -135,7 +142,7 @@
     - Model fitting using RANSAC
   readings:
     - Szeliski book, Chapter 7, 8
-    - OpenCV <a href="https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html">SIFT detection demo</a>
+    - OpenCV <a href="https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html">SIFT matching demo</a>
 
 
 - date: 4/1
@@ -147,7 +154,6 @@
 
   readings:
     - Szeliski book, Chapter 8
-    - OpenCV <a href="https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html">SIFT matching demo</a>
 
 - date: 4/3
   title: >
