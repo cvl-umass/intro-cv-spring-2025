@@ -86,7 +86,7 @@
        - Hybrid Images <br>
        - Edge detection<br>
   readings:
-    - <strong>Homework 3</strong> released (due 3/25)
+    - <strong>Homework 3</strong> released (due 3/27)
     - Szeliski book, Chapter 3
 
 - date: 3/6
@@ -132,7 +132,6 @@
       - <a href="../assets/slides/lec11_blob_detection.pdf">Slides</a>
       - Szeliski book, Chapter 7
       - OpenCV <a href="https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html">SIFT detection demo</a>
-      - <strong>Homework 4</strong> released (due 4/10)
 
 - date: 3/27
   title: >
@@ -143,6 +142,7 @@
   readings:
     - Szeliski book, Chapter 7, 8
     - OpenCV <a href="https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html">SIFT matching demo</a>
+    - <strong>Homework 4</strong> released (due 4/15)
 
 
 - date: 4/1
@@ -188,7 +188,6 @@
     - Current trends<br>
   readings:
     - Szeliski book, Chapter 6
-    - <strong>Homework 5</strong> released (due 5/1)
 
 
 - date: 4/15
@@ -199,7 +198,7 @@
   readings:
     - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">HOG, Dalal and Triggs, CVPR 2005</a><br>
     - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Words, Csurka et al., ECCV 2004</a>
-    - <strong>Homework 5</strong> released (due 5/2)
+    - <strong>Homework 5</strong> released (due 5/6)
 
 - date: 4/17
   title: >
@@ -250,4 +249,14 @@
 - date: 5/6
   title: >
     <strong>TBD</strong><br>
+  readings:
+
+- date: 5/8
+  title: >
+    <strong>TBD</strong><br>
+  readings:
+
+- date: 5/14
+  title: >
+    <strong>Final, 1- 3pm, LGRC A301</strong><br>
   readings:
