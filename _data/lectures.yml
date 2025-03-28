@@ -136,10 +136,11 @@
 - date: 3/27
   title: >
     <strong>Matching and alignment: I</strong><br>
-    - Feature descriptors<br>
+    - The SIFT descriptor<br>
     - Matching and ratio test<br>
     - Model fitting using RANSAC
   readings:
+    - <a href="../assets/slides/lec12+13_image_alignment.pdf">Slides</a> (next two lectures)
     - Szeliski book, Chapter 7, 8
     - OpenCV <a href="https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html">SIFT matching demo</a>
     - <strong>Homework 4</strong> released (due 4/15)
@@ -149,8 +150,9 @@
   title: >
     <strong>Matching and alignment: II</strong><br>
     - Image transformations<br>
-    - Transformations from matching<br>
+    - Estimating transformations from matching<br>
     - Image warping<br>
+    - Modern approaches<br>
 
   readings:
     - Szeliski book, Chapter 8
