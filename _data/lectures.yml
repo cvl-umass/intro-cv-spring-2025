@@ -141,6 +141,7 @@
     - Model fitting using RANSAC
   readings:
     - <a href="../assets/slides/lec12+13_image_alignment.pdf">Slides</a> (next two lectures)
+    - Notes <a href="../assets/notes/matchingandalignment.pdf">matchingandalignment.pdf</a> (next two lectures)
     - Szeliski book, Chapter 7, 8
     - OpenCV <a href="https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html">SIFT matching demo</a>
     - <strong>Homework 4</strong> released (due 4/15)
