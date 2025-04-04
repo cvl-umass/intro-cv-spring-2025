@@ -161,12 +161,15 @@
 - date: 4/3
   title: >
     <strong>Optical flow</strong><br>
-    - Motion field<br>
+    - Motion field and optical flow<br>
     - Lucas-Kanade optical flow<br>
-    - Depth from disparity<br>
-    - Structured light and the Kinect sensor
+    - Alternate flow techniques<br>
+    - Depth estimation, point tracking, video interpolation
 
   readings:
+    - <a href="../assets/slides/lec14_optical_flow.pdf">Slides</a>
+    - Notes <a href="../assets/notes/opticalflow.pdf">opticalflow.pdf</a>
+    - OpenCV <a href="https://docs.opencv.org/4.x/d4/dee/tutorial_optical_flow.html">Optical Flow</a>
     - Szeliski book, Chapter 8
 
 
