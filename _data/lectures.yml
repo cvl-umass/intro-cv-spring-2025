@@ -179,14 +179,14 @@
   title: <strong>Recognition by alignment</strong><br>
     - Instance matching<br>
     - Vocabulary trees<br>
-    - Low distortion correspondences<br>
-    - Structure from motion<br>
+    - Beyond instance matching<br>
+
   readings:
+    - <a href="../assets/slides/lec15_recognition_by_alignment.pdf">Slides</a>
     - Szeliski book, Chapter 8
     - Oxford building search <a href="https://www.robots.ox.ac.uk/~vgg/research/oxbuildings/">demo</a>
     - <a href="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html">Shape context</a>
-    - <a href="https://www.acberg.com/gb.html">Geometric blur</a>
-
+    
 - date: 4/10
   title: <strong>Introduction to recognition</strong><br>
     - What is recognition?<br>
