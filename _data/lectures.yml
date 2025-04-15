@@ -186,39 +186,42 @@
     - Szeliski book, Chapter 8
     - Oxford building search <a href="https://www.robots.ox.ac.uk/~vgg/research/oxbuildings/">demo</a>
     - <a href="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html">Shape context</a>
-    
+
 - date: 4/10
   title: <strong>Introduction to recognition</strong><br>
     - What is recognition?<br>
     - Brief history of recognition<br>
     - Current trends<br>
   readings:
+    - <a href="../assets/slides/lec16_recognition_intro.pdf">Slides</a>
     - Szeliski book, Chapter 6
 
 
 - date: 4/15
-  title: <strong>Representations</strong><br>
-    - The machine learning framework<br>
-    - Role of representations<br>
-    - Two classical representations (HOG and BoVW)<br>
+  title: >
+        <strong>Classical machine learning: I</strong><br>
+        - The machine learning framework<br>
+        - Nearest neighbor classifiers<br>
+        - Hyperparameters search<br>
   readings:
-    - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">HOG, Dalal and Triggs, CVPR 2005</a><br>
-    - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Words, Csurka et al., ECCV 2004</a>
-    - <strong>Homework 5</strong> released (due 5/6)
+    - <strong>Homework 5</strong> released (due 5/6)<br>
+
 
 - date: 4/17
   title: >
-    <strong>Classical machine learning</strong><br>
-    - Nearest neighbor classifiers<br>
-    - Linear classifiers
-
+    <strong>Classical machine learning: II</strong><br>
+    - Linear classifiers<br>
+    - Loss function, regularization, optimization<br>
 
 - date: 4/22
   title: >
-    <strong>Classical machine learning</strong><br>
-    - Loss functions<br>
-    - Regularization<br>
-    - Optimization
+   <strong>Representations</strong><br>
+    - Role of representations<br>
+    - Two classical representations (HOG and BoVW)<br>
+  readings:
+        - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">HOG, Dalal and Triggs, CVPR 2005</a><br>
+        - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Words, Csurka et al., ECCV 2004</a>
+
 
 - date: 4/24
   title: <strong>Deep learning</strong><br>
