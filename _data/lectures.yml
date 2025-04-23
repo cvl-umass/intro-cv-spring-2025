@@ -188,7 +188,7 @@
     - <a href="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html">Shape context</a>
 
 - date: 4/10
-  title: <strong>Introduction to recognition</strong><br>
+  title: <strong>Visual recognition</strong><br>
     - What is recognition?<br>
     - Brief history of recognition<br>
     - Current trends<br>
@@ -204,6 +204,7 @@
         - Nearest neighbor classifiers<br>
         - Hyperparameters search<br>
   readings:
+    - <a href="../assets/slides/lec17+18+19_ml.pdf">Slides</a> (next two lectures)
     - <strong>Homework 5</strong> released (due 5/6)<br>
 
 
@@ -219,6 +220,7 @@
     - Role of representations<br>
     - Two classical representations (HOG and BoVW)<br>
   readings:
+        - <a href="../assets/slides/lec19+20_representation.pdf">Slides</a> (next two lectures)
         - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">HOG, Dalal and Triggs, CVPR 2005</a><br>
         - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Words, Csurka et al., ECCV 2004</a>
 
