@@ -205,6 +205,7 @@
         - Hyperparameters search<br>
   readings:
     - <a href="../assets/slides/lec17+18+19_ml.pdf">Slides</a> (next two lectures)
+    - <a href="https://cvl-umass.github.io/compsci682-fall-2024/notes/classification/">Classification notes</a>@682
     - <strong>Homework 5</strong> released (due 5/6)<br>
 
 
@@ -213,58 +214,67 @@
     <strong>Classical machine learning: II</strong><br>
     - Linear classifiers<br>
     - Loss function, regularization, optimization<br>
+  readings:
+    - <a href="https://cvl-umass.github.io/compsci682-fall-2024/notes/linear-classify/">Linear classification notes</a>@682
+    - <a href="https://cvl-umass.github.io/compsci682-fall-2024/notes/optimization-1/">Optimization notes</a>@682
 
 - date: 4/22
   title: >
-   <strong>Representations</strong><br>
+   <strong>Image representations</strong><br>
     - Role of representations<br>
-    - Two classical representations (HOG and BoVW)<br>
+    - Classical representations (HOG and BoVW)<br>
   readings:
         - <a href="../assets/slides/lec19+20_representation.pdf">Slides</a> (next two lectures)
         - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">HOG, Dalal and Triggs, CVPR 2005</a><br>
         - <a href="https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf">Bag of Words, Csurka et al., ECCV 2004</a>
 
-
 - date: 4/24
-  title: <strong>Deep learning</strong><br>
+  title: >
+    <strong>Deep learning: I </strong><br>
       - Multi-layer perceptrons<br>
-      - Convolutional networks<br>
-      - Learning via backpropagation <br>
-      - LeNet and AlexNet<br>
-      - Visualizing filters in AlexNet<br>
+      - Activations, Loss functions, optimization<br>
+      - Practical issues<br>
+      - Convolutional networks
+  readings:
+      - <a href="../assets/slides/lec21+22+23_deeplearning.pdf">Slides</a> (next three lectures)
+      - <a href="https://cvl-umass.github.io/compsci682-fall-2024/notes/neural-networks-1/">Neural network notes</a>@682
 
 - date: 4/29
-  title: <strong>Object detection</strong><br>
-    - Sliding window detectors<br>
-    - Region-based detectors<br>
-    - Datasets and benchmarks<br>
+  title: >
+    <strong>Deep Learning: II</strong><br>
+      - Convolutional networks<br>
+      - LeNet<br>
+      - AlexNet and ImageNet challenge<br>
   readings:
-    - Szeliski book, Chapter 6
-    - <a href="https://ieeexplore.ieee.org/document/990517">Face detector, Viola & Jones, CVPR 2001</a><br>
-    - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Pedestrian detector, Dalal & Triggs, CVPR 2005</a><br>
-    - <a href="https://link.springer.com/article/10.1007/s11263-013-0620-5">Selective search, Uijlings et al., IJCV'13</a>
-    - <a href="https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html">R-CNN, Girshick et al., CVPR 2014</a>
+    - <a href="https://cvl-umass.github.io/compsci682-fall-2024/notes/convolutional-networks/">ConvNet notes</a>@682
 
 - date: 5/1
-  title: <strong>Object detection</strong><br>
-    - Sliding window detectors<br>
-    - Region-based detectors<br>
-    - Datasets and benchmarks<br>
+  title: >
+    <strong>Deep Learning: III</strong><br>
+        - AlexNet and ImageNet challenge<br>
+        - Visualizing deep networks<br>
+        - Transfer learning<br>
+        - Modern CNNs<br>
   readings:
-    - Szeliski book, Chapter 6
-    - <a href="https://ieeexplore.ieee.org/document/990517">Face detector, Viola & Jones, CVPR 2001</a><br>
-    - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">Pedestrian detector, Dalal & Triggs, CVPR 2005</a><br>
-    - <a href="https://link.springer.com/article/10.1007/s11263-013-0620-5">Selective search, Uijlings et al., IJCV'13</a>
-    - <a href="https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html">R-CNN, Girshick et al., CVPR 2014</a>
+
 
 - date: 5/6
   title: >
-    <strong>TBD</strong><br>
+    <Strong> Object detection</strong><br>
+        - Sliding-window detectors<br>
+        - Region-based detectors<br>
+        - Datasets and benchmarks<br>
   readings:
+    - <a href="../assets/slides/lec24_object_detection.pdf">Slides</a>
+    - Szeliski book, Chapter 6
+    - <a href="https://ieeexplore.ieee.org/document/990517">Face detector, Viola & Jones, CVPR 2001</a><br>
+    - <a href="https://cs.brown.edu/courses/cs143/2013/proj4/papers/dalal_triggs_cvpr_2005.pdf">HOG, Dalal & Triggs, CVPR 2005</a><br>
+    - <a href="https://link.springer.com/article/10.1007/s11263-013-0620-5">Selective search, Uijlings et al., IJCV'13</a>
+    - <a href="https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html">R-CNN, Girshick et al., CVPR 2014</a>
 
 - date: 5/8
   title: >
-    <strong>TBD</strong><br>
+    <strong>Guest lecture by Aaron Sun</strong><br>
   readings:
 
 - date: 5/14
